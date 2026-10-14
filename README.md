@@ -43,6 +43,8 @@ Default week: 6–8 new Medium or Medium-hard problems, 2–3 new Hards, 5–7 m
 
 See `PRACTICE_PLAN.md` for the daily selection rule and review schedule.
 
+Use [`notes/MASTER_1500.md`](notes/MASTER_1500.md) as the ranked mixed backlog. The filterable CSV and ranking method are in the same folder.
+
 ## Imported material
 
 The first organized import combines the existing repository, the `googleprep/coding` collection, and the local `tests` practice folder. Virtual environments, caches, compiled binaries, logs, editor chat history, nested Git metadata, and notebook outputs were left out. They are generated or private artifacts, not practice material.
