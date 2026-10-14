@@ -14,6 +14,7 @@ Start each solution with:
 """Problem name or URL.
 
 Pattern:
+Difficulty: Medium / Medium-hard / Hard
 Approach:
 Time:
 Space:

@@ -31,13 +31,17 @@ Use `practice/README.md` for file naming and the solution template.
 
 ## Four-to-six-month plan
 
-- Month 1: arrays, strings, hashing, two pointers, sliding windows, stacks, and binary search.
-- Month 2: trees, graphs, BFS/DFS, heaps, intervals, and union-find.
-- Month 3: backtracking, dynamic programming, greedy problems, and tries.
-- Month 4: mixed timed sets, communication, testing, and Google-style follow-ups.
-- Months 5–6: weak-area repair, mock interviews, and spaced re-solves if more time is available.
+Practice stays mixed from day one. Every day should combine at least two problem families, and every week should touch most of the major families. Do not reserve graphs, DP, trees, or other patterns for separate months.
 
-Default week: four focused practice days, one mixed timed set, one review day, and one rest day. Quality matters more than raw problem count.
+Focus on Medium, Medium-hard, and transferable Hard problems. Do not schedule Easy problems.
+
+- Months 1–2: improve accuracy and pattern recognition under a time limit.
+- Months 3–4: add more timed mixed sets, unfamiliar wording, and follow-ups.
+- Months 5–6: run frequent mocks and choose the remaining work from the error log.
+
+Default week: 6–8 new Medium or Medium-hard problems, 2–3 new Hards, 5–7 mixed re-solves, two timed mixed sets, one mock or recorded walkthrough, and one rest day.
+
+See `PRACTICE_PLAN.md` for the daily selection rule and review schedule.
 
 ## Imported material
 
