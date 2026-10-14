@@ -1,0 +1,267 @@
+Year,Type,Category,Acquisition,Network,Objective
+2021,Medical,Deformable,multimodal,unsupervised,"Cycle‐Consistency‐Based, Adversarial/Generative‐Based, Structural Similarity‐Based, Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Remote Sensing,Feature-based,multimodal,classical,"Contrastive/Metric‐Learning‐Based, Geometric/Landmark Error‐Based"
+2021,Medical,Deformable,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,semisupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,"Deformable, Rigid",multimodal,classical,"Geometric/Landmark Error‐Based, Overlap/Segmentation‐Based"
+2021,Medical,Feature-based,multimodal,supervised,"Classification/Cross‐Entropy‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based, Cycle‐Consistency‐Based"
+2021,Medical,"Feature-based, Coarse-Fine",multiview,classical,"Intensity Difference‐Based, Entropy/Information‐Based, Signal‐Quality‐Based"
+2021,Remote Sensing,Feature-based,multimodal,classical,Contrastive/Metric‐Learning‐Based
+2021,Medical,Deformable,multimodal,classical,"Regularization/Smoothness‐Based, Cycle‐Consistency‐Based"
+2021,Remote Sensing,Feature-based,multiview,classical,Geometric/Landmark Error‐Based
+2021,Remote Sensing,Feature-based,multimodal,classical,"Correlation‐Based, Geometric/Landmark Error‐Based"
+2021,Medical,Deformable,multitemporal,semisupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Feature-based,multimodal,supervised,Overlap/Segmentation‐Based
+2021,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2021,Medical,Deformable,multimodal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,classical,
+2021,Remote Sensing,Feature-based,multimodal,classical,
+2021,Medical,"Affine, Deformable",,unsupervised,"Correlation‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Feature-based,multimodal,classical,Entropy/Information‐Based
+2021,Remote Sensing,Feature-based,multimodal,supervised,"Classification/Cross‐Entropy‐Based, Contrastive/Metric‐Learning‐Based"
+2021,Remote Sensing,Feature-based,multimodal,classical,Intensity Difference‐Based
+2021,Medical,Deformable,multimodal,classical,Intensity Difference‐Based
+2021,Remote Sensing,Feature-based,multiview,classical,Entropy/Information‐Based
+2021,Medical,Feature-based,multitemporal,classical,Correlation‐Based
+2021,Medical,Deformable,multimodal,unsupervised,Cycle‐Consistency‐Based
+2021,Medical,Deformable,,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multitemporal,semisupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Rigid,multiview,classical,Correlation‐Based
+2021,Medical,Deformable,multimodal,semisupervised,"Intensity Difference‐Based, Correlation‐Based, Entropy/Information‐Based, Regularization/Smoothness‐Based, Overlap/Segmentation‐Based"
+2021,Medical,Feature-based,multimodal,reinforcement,Geometric/Landmark Error‐Based
+2021,Medical,Feature-based,multimodal,classical,"Entropy/Information‐Based, Correlation‐Based, Intensity Difference‐Based"
+2021,Medical,Deformable,multimodal,semisupervised,"Correlation‐Based, Overlap/Segmentation‐Based, Entropy/Information‐Based"
+2021,Medical,Deformable,multimodal,semisupervised,"Adversarial/Generative‐Based, Regularization/Smoothness‐Based"
+2021,Remote Sensing,Feature-based,multimodal,supervised,"Classification/Cross‐Entropy‐Based, Intensity Difference‐Based"
+2021,Remote Sensing,Feature-based,multimodal,supervised,Geometric/Landmark Error‐Based
+2021,Medical,Deformable,multimodal,"semisupervised,unsupervised","Regularization/Smoothness‐Based, Contrastive/Metric‐Learning‐Based, Classification/Cross‐Entropy‐Based, Intensity Difference‐Based, Overlap/Segmentation‐Based"
+2021,Remote Sensing,Feature-based,multimodal,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multiview,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,unsupervised,"Cycle‐Consistency‐Based, Adversarial/Generative‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based"
+2021,Medical,"Deformable, Feature-based",multimodal,semisupervised,"Classification/Cross‐Entropy‐Based, Regularization/Smoothness‐Based"
+2021,Medical,"Affine, Deformable, Feature-based",multimodal,semisupervised,Classification/Cross‐Entropy‐Based
+2021,Medical,"Affine, Deformable, Feature-based",multimodal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,"Deformable, Feature-based",multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Affine,multimodal,classical,Intensity Difference‐Based
+2021,Medical,Deformable,multimodal,semisupervised,Geometric/Landmark Error‐Based
+2021,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Signal‐Quality‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,,unsupervised,"Entropy/Information‐Based, Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,"Rigid, Affine",multimodal,classical,Entropy/Information‐Based
+2021,Medical,Feature-based,multiview,supervised,Classification/Cross‐Entropy‐Based
+2021,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2021,Medical,Deformable,multisensor,semisupervised,"Classification/Cross‐Entropy‐Based, Correlation‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,unsupervised,"Entropy/Information‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Feature-based,multitemporal,classical,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2021,Remote Sensing,Feature-based,multiview,classical,
+2021,Medical,Deformable,multitemporal,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based"
+2021,Medical,Deformable,multimodal,semisupervised,"Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2021,Remote Sensing,Feature-based,multimodal,supervised,
+2021,Remote Sensing,Feature-based,multiview,supervised,Classification/Cross‐Entropy‐Based
+2021,Remote Sensing,Feature-based,multiview,classical,Regularization/Smoothness‐Based
+2021,Remote Sensing,Feature-based,multispectral,unsupervised,Intensity Difference‐Based
+2021,Remote Sensing,Deformable,multitemporal,unsupervised,Intensity Difference‐Based
+2021,Remote Sensing,Feature-based,multimodal,classical,Intensity Difference‐Based
+2021,Remote Sensing,Feature-based,multimodal,classical,Geometric/Landmark Error‐Based
+2021,Remote Sensing,Feature-based,multiview,classical,Structural Similarity‐Based
+2021,Remote Sensing,Feature-based,multisensor,classical,Geometric/Landmark Error‐Based
+2021,Remote Sensing,Feature-based,multiview,supervised,Overlap/Segmentation‐Based
+2021,Remote Sensing,Feature-based,multiview,supervised,Intensity Difference‐Based
+2022,Remote Sensing,Deformable,multimodal,supervised,Structural Similarity‐Based
+2022,Remote Sensing,Feature-based,multisensor,unsupervised,Correlation‐Based
+2022,Remote Sensing,"Deformable, Coarse-Fine",multimodal,unsupervised,Regularization/Smoothness‐Based
+2022,Medical,Affine,,"semisupervised,unsupervised",Overlap/Segmentation‐Based
+2022,Medical,Deformable,multitemporal,unsupervised,Correlation‐Based
+2022,Medical,Deformable,,unsupervised,Correlation‐Based
+2022,Medical,Deformable,multiview,unsupervised,Correlation‐Based
+2022,Remote Sensing,Feature-based,multimodal,supervised,Contrastive/Metric‐Learning‐Based
+2022,Medical,Feature-based,multimodal,classical,Correlation‐Based
+2022,Medical,Deformable,multimodal,unsupervised,Contrastive/Metric‐Learning‐Based
+2022,Medical,Deformable,multimodal,supervised,Regularization/Smoothness‐Based
+2022,Remote Sensing,Feature-based,multimodal,supervised,Intensity Difference‐Based
+2022,Medical,Deformable,multitemporal,unsupervised,Regularization/Smoothness‐Based
+2022,Medical,Deformable,multimodal,unsupervised,Cycle‐Consistency‐Based
+2022,Medical,Deformable,multimodal,supervised,Regularization/Smoothness‐Based
+2022,Medical,Deformable,multimodal,unsupervised,Adversarial/Generative‐Based
+2022,Medical,Deformable,multimodal,unsupervised,Cycle‐Consistency‐Based
+2022,Medical,Deformable,multimodal,unsupervised,Contrastive/Metric‐Learning‐Based
+2022,Remote Sensing,Feature-based,multimodal,classical,
+2022,Remote Sensing,Feature-based,multimodal,supervised,"Contrastive/Metric‐Learning‐Based, Entropy/Information‐Based, Intensity Difference‐Based"
+2022,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2022,Remote Sensing,Feature-based,,supervised,Contrastive/Metric‐Learning‐Based
+2022,Remote Sensing,Feature-based,multisensor,classical,
+2022,Medical,Deformable,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based, Intensity Difference‐Based"
+2022,Medical,Deformable,multimodal,supervised,Structural Similarity‐Based
+2022,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based, Entropy/Information‐Based"
+2022,Remote Sensing,Feature-based,multimodal,supervised,"Intensity Difference‐Based, Entropy/Information‐Based"
+2022,Medical,Deformable,multiview,unsupervised,"Intensity Difference‐Based, Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,unsupervised,"Intensity Difference‐Based, Correlation‐Based, Geometric/Landmark Error‐Based"
+2022,Medical,Deformable,multimodal,unsupervised,"Correlation‐Based, Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,"Deformable, Feature-based",multimodal,supervised,"Intensity Difference‐Based, Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,supervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,supervised,"Adversarial/Generative‐Based, Structural Similarity‐Based, Intensity Difference‐Based, Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,unsupervised,"Contrastive/Metric‐Learning‐Based, Correlation‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2022,Remote Sensing,Feature-based,multispectral,supervised,Contrastive/Metric‐Learning‐Based
+2022,Medical,Feature-based,multiview,classical,
+2022,Medical,Feature-based,multimodal,classical,
+2022,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based, Geometric/Landmark Error‐Based"
+2022,Medical,Deformable,multimodal,supervised,"Intensity Difference‐Based, Correlation‐Based"
+2022,Remote Sensing,Feature-based,multimodal,classical,
+2022,Medical,Deformable,multimodal,unsupervised,"Structural Similarity‐Based, Geometric/Landmark Error‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multimodal,supervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2022,Medical,Rigid,multimodal,unsupervised,"Entropy/Information‐Based, Intensity Difference‐Based, Correlation‐Based"
+2022,Remote Sensing,Affine,multimodal,classical,"Correlation‐Based, Geometric/Landmark Error‐Based"
+2022,Remote Sensing,Feature-based,multimodal,classical,"Contrastive/Metric‐Learning‐Based, Geometric/Landmark Error‐Based"
+2022,Remote Sensing,Feature-based,multiview,supervised,Intensity Difference‐Based
+2022,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2022,Remote Sensing,Feature-based,multitemporal,classical,Signal‐Quality‐Based
+2022,Remote Sensing,Affine,,unsupervised,"Structural Similarity‐Based, Intensity Difference‐Based, Correlation‐Based"
+2022,Remote Sensing,Feature-based,multimodal,semisupervised,"Adversarial/Generative‐Based, Cycle‐Consistency‐Based, Intensity Difference‐Based, Classification/Cross‐Entropy‐Based"
+2022,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2022,Remote Sensing,"Feature-based, Deformable",multimodal,supervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based, Intensity Difference‐Based"
+2022,Remote Sensing,Deformable,multitemporal,supervised,"Geometric/Landmark Error‐Based, Overlap/Segmentation‐Based, Correlation‐Based, Contrastive/Metric‐Learning‐Based"
+2022,Remote Sensing,Feature-based,multitemporal,classical,Geometric/Landmark Error‐Based
+2022,Remote Sensing,Feature-based,multimodal,classical,
+2022,Remote Sensing,Feature-based,multimodal,classical,
+2022,Remote Sensing,Feature-based,multimodal,supervised,Contrastive/Metric‐Learning‐Based
+2023,Remote Sensing,Feature-based,multiview,unsupervised,Regularization/Smoothness‐Based
+2023,Medical,Coarse-Fine,multimodal,supervised,"Correlation‐Based, Intensity Difference‐Based, Structural Similarity‐Based"
+2023,Medical,"Rigid, Deformable",multimodal,supervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multiview,classical,Geometric/Landmark Error‐Based
+2023,Medical,Deformable,multiview,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multiview,supervised,"Entropy/Information‐Based, Overlap/Segmentation‐Based"
+2023,Remote Sensing,"Deformable, Affine",multiview,unsupervised,"Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,Feature-based,multiview,supervised,"Geometric/Landmark Error‐Based, Cycle‐Consistency‐Based, Adversarial/Generative‐Based"
+2023,Remote Sensing,Feature-based,multimodal,unsupervised,"Intensity Difference‐Based, Structural Similarity‐Based, Geometric/Landmark Error‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Cycle‐Consistency‐Based"
+2023,Medical,Deformable,,unsupervised,"Contrastive/Metric‐Learning‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multimodal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,"Feature-based, Affine",multimodal,supervised,"Intensity Difference‐Based, Entropy/Information‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based, Structural Similarity‐Based"
+2023,Medical,Deformable,multimodal,unsupervised,"Adversarial/Generative‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,"Feature-based, Affine",multisensor,classical,Intensity Difference‐Based
+2023,Medical,Affine,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,Feature-based,multispectral,unsupervised,"Geometric/Landmark Error‐Based, Contrastive/Metric‐Learning‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Feature-based,multimodal,unsupervised,Signal‐Quality‐Based
+2023,Medical,Deformable,multitemporal,supervised,"Intensity Difference‐Based, Entropy/Information‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Cycle‐Consistency‐Based, Regularization/Smoothness‐Based, Overlap/Segmentation‐Based, Correlation‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,Coarse-Fine,multimodal,unsupervised,"Geometric/Landmark Error‐Based, Classification/Cross‐Entropy‐Based, Contrastive/Metric‐Learning‐Based"
+2023,Medical,Deformable,multitemporal,supervised,"Intensity Difference‐Based, Geometric/Landmark Error‐Based, Adversarial/Generative‐Based"
+2023,Medical,Deformable,multimodal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based, Cycle‐Consistency‐Based"
+2023,Medical,Feature-based,multitemporal,,
+2023,Medical,Deformable,,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multimodal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Coarse-Fine,,unsupervised,"Intensity Difference‐Based, Regularization/Smoothness‐Based"
+2023,Remote Sensing,Deformable,,supervised,"Geometric/Landmark Error‐Based, Regularization/Smoothness‐Based, Intensity Difference‐Based"
+2023,Medical,Rigid,multiview,"supervised, classical",Classification/Cross‐Entropy‐Based
+2023,Medical,Affine,multimodal,unsupervised,Intensity Difference‐Based
+2023,Medical,Deformable,,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Feature-based,,unsupervised,Contrastive/Metric‐Learning‐Based
+2023,Medical,Deformable,multimodal,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based, Overlap/Segmentation‐Based"
+2023,Medical,"Deformable, Multi-modal",multimodal,classical,"Overlap/Segmentation‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Feature-based,multimodal,"supervised, unsupervised","Structural Similarity‐Based, Intensity Difference‐Based, Overlap/Segmentation‐Based"
+2023,Remote Sensing,Feature-based,multimodal,unsupervised,"Intensity Difference‐Based, Structural Similarity‐Based"
+2023,Medical,Deformable,,unsupervised,
+2023,Medical,Deformable,multimodal,supervised,
+2023,Remote Sensing,Feature-based,multispectral,unsupervised,Structural Similarity‐Based
+2023,Medical,Deformable,,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Deformable,multitemporal,unsupervised,"Correlation‐Based, Regularization/Smoothness‐Based"
+2023,Medical,Feature-based,multitemporal,supervised,Overlap/Segmentation‐Based
+2023,Remote Sensing,Feature-based,,unsupervised,Contrastive/Metric‐Learning‐Based
+2023,Remote Sensing,Feature-based,multispectral,supervised,Intensity Difference‐Based
+2023,Remote Sensing,Feature-based,multispectral,classical,Intensity Difference‐Based
+2023,Remote Sensing,Feature-based,multisensor,classical,Intensity Difference‐Based
+2023,Remote Sensing,Feature-based,,supervised,Cycle‐Consistency‐Based
+2023,Remote Sensing,Feature-based,multisensor,semisupervised,Contrastive/Metric‐Learning‐Based
+2023,Remote Sensing,Feature-based,multitemporal,semisupervised,"Classification/Cross‐Entropy‐Based, Regularization/Smoothness‐Based, Intensity Difference‐Based"
+2023,Remote Sensing,Feature-based,multispectral,classical,
+2023,Remote Sensing,Feature-based,multisensor,classical,Geometric/Landmark Error‐Based
+2023,Remote Sensing,Deformable,multimodal,unsupervised,"Structural Similarity‐Based, Regularization/Smoothness‐Based, Geometric/Landmark Error‐Based, Classification/Cross‐Entropy‐Based, Entropy/Information‐Based"
+2023,Remote Sensing,Coarse-Fine,multisensor,supervised,Signal‐Quality‐Based
+2023,Remote Sensing,"Feature-based, Affine",,unsupervised,Intensity Difference‐Based
+2023,"Medical, Remote Sensing","Deformable, Affine",multimodal,unsupervised,"Contrastive/Metric‐Learning‐Based, Correlation‐Based, Structural Similarity‐Based"
+2023,Medical,Deformable,multimodal,unsupervised,Structural Similarity‐Based
+2023,"Medical, Remote Sensing",Deformable,multiview,unsupervised,"Structural Similarity‐Based, Intensity Difference‐Based"
+2023,Remote Sensing,Deformable,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2024,Medical,Deformable,multiview,semisupervised,Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multisensor,supervised,"Cycle‐Consistency‐Based, Intensity Difference‐Based, Regularization/Smoothness‐Based, Structural Similarity‐Based"
+2024,Medical,Deformable,multiview,semisupervised,
+2024,Medical,Deformable,multimodal,unsupervised,Structural Similarity‐Based + Geometric/Landmark Error‐Based + Intensity Difference‐Based
+2024,Medical,"Rigid, Affine",multimodal,unsupervised,Classification/Cross‐Entropy‐Based
+2024,Medical,"Deformable, Affine",multiview,unsupervised,Correlation‐Based + Regularization/Smoothness‐Based
+2024,Remote Sensing,Affine,multimodal,"supervised,reinforcement",Correlation‐Based + Entropy/Information‐Based
+2024,Medical,"Deformable, Coarse-Fine",multiview,supervised,Intensity Difference‐Based + Classification/Cross‐Entropy‐Based
+2024,Medical,Deformable,multimodal,unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multiview,unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multiview,classical,Regularization/Smoothness‐Based
+2024,Medical,Deformable,multimodal,unsupervised,Entropy/Information‐Based
+2024,Medical,Deformable,"multitemporal, multimodal",unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multiview,supervised,
+2024,Medical,Deformable,multimodal,supervised,Intensity Difference‐Based + Regularization/Smoothness‐Based + Overlap/Segmentation‐Based
+2024,Medical,Deformable,multimodal,supervised,
+2024,Medical,Deformable,multimodal,unsupervised,Intensity Difference‐Based + Entropy/Information‐Based + Overlap/Segmentation‐Based
+2024,Medical,Deformable,multitemporal,unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multimodal,unsupervised,Overlap/Segmentation‐Based + Cycle‐Consistency‐Based
+2024,Medical,Feature-based,multitemporal,classical,
+2024,Remote Sensing,Feature-based,multisensor,supervised,
+2024,Medical,Feature-based,multiview,semisupervised,Geometric/Landmark Error‐Based + Correlation‐Based
+2024,Medical,Deformable,multimodal,unsupervised,Entropy/Information‐Based + Intensity Difference‐Based
+2024,Remote Sensing,Deformable,multitemporal,supervised,
+2024,Medical,Deformable,multiview,supervised,Intensity Difference‐Based
+2024,Medical,Deformable,multitemporal,unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multitemporal,unsupervised,Intensity Difference‐Based
+2024,Medical,Feature-based,multiview,classical,
+2024,Medical,Affine,multiview,semisupervised,Classification/Cross‐Entropy‐Based
+2024,Medical,"Deformable, Rigid",multitemporal,unsupervised,Entropy/Information‐Based + Regularization/Smoothness‐Based
+2024,Medical,Deformable,multimodal,supervised,Overlap/Segmentation‐Based + Regularization/Smoothness‐Based
+2024,Medical,"Deformable, Rigid",multiview,semisupervised,Contrastive/Metric‐Learning‐Based
+2024,Medical,Deformable,multitemporal,unsupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Remote Sensing,"Rigid, Deformable",multimodal,unsupervised,Adversarial/Generative‐Based + Structural Similarity‐Based + Intensity Difference‐Based + Regularization/Smoothness‐Based
+2024,Medical,"Rigid, Deformable",multimodal,unsupervised,Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multispectral,semisupervised,Classification/Cross‐Entropy‐Based + Overlap/Segmentation‐Based
+2024,Medical,Deformable,multimodal,semisupervised,Intensity Difference‐Based + Regularization/Smoothness‐Based + Overlap/Segmentation‐Based
+2024,Medical,"Deformable, Coarse-Fine",multitemporal,supervised,
+2024,Medical,Rigid,multimodal,"unsupervised,supervised",Adversarial/Generative‐Based + Cycle‐Consistency‐Based + Intensity Difference‐Based
+2024,Remote Sensing,Coarse-Fine,multiview,semisupervised,
+2024,Remote Sensing,Feature-based,multiview,classical,
+2024,Remote Sensing,Feature-based,multispectral,unsupervised,
+2024,Medical,Rigid,multiview,classical,Classification/Cross‐Entropy‐Based + Geometric/Landmark Error‐Based
+2024,Medical,Deformable,,unsupervised,Correlation‐Based + Regularization/Smoothness‐Based
+2024,Remote Sensing,Feature-based,multiview,classical,Entropy/Information‐Based
+2024,Remote Sensing,Coarse-Fine,multimodal,semisupervised,Geometric/Landmark Error‐Based
+2024,Remote Sensing,Coarse-Fine,multisensor,semisupervised,Geometric/Landmark Error‐Based
+2024,Remote Sensing,Feature-based,multimodal,classical,
+2024,Remote Sensing,"Rigid, Deformable",multisensor,classical,Geometric/Landmark Error‐Based
+2024,Remote Sensing,Feature-based,multiview,classical,Geometric/Landmark Error‐Based
+2024,Remote Sensing,Coarse-Fine,multispectral,supervised,
+2024,Remote Sensing,Deformable,multispectral,supervised,Overlap/Segmentation‐Based; Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multispectral,supervised,Structural Similarity‐Based; Intensity Difference‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multispectral,unsupervised,Classification/Cross‐Entropy‐Based; Geometric/Landmark Error‐Based; Contrastive/Metric‐Learning‐Based
+2024,Medical,Deformable,,unsupervised,Structural Similarity‐Based; Regularization/Smoothness‐Based
+2024,Medical,Deformable,multimodal,semisupervised,Overlap/Segmentation‐Based; Regularization/Smoothness‐Based
+2024,Medical,Deformable,multimodal,semisupervised,Intensity Difference‐Based; Overlap/Segmentation‐Based; Regularization/Smoothness‐Based
+2024,Medical,Deformable,multiview,unsupervised,Intensity Difference‐Based; Regularization/Smoothness‐Based
+2024,Medical,Feature-based,multimodal,semisupervised,Classification/Cross‐Entropy‐Based
+2024,Medical,Deformable,multimodal,semisupervised,Correlation‐Based; Entropy/Information‐Based; Overlap/Segmentation‐Based; Intensity Difference‐Based; Regularization/Smoothness‐Based
+2024,"Medical, Remote Sensing",Deformable,multimodal,unsupervised,Intensity Difference‐Based; Overlap/Segmentation‐Based; Regularization/Smoothness‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based; Regularization/Smoothness‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based; Regularization/Smoothness‐Based
+2024,"Medical, Remote Sensing",Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based; Contrastive/Metric‐Learning‐Based; Regularization/Smoothness‐Based
+2024,Remote Sensing,Feature-based,multimodal,supervised,Classification/Cross‐Entropy‐Based; Regularization/Smoothness‐Based
+2024,Remote Sensing,Coarse-Fine,multisensor,semisupervised,Geometric/Landmark Error‐Based; Structural Similarity‐Based; Intensity Difference‐Based

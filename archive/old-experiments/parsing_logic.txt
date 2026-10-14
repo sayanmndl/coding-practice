@@ -1,0 +1,4 @@
+node type
+Node type=preproc_ifdef
+-> find identifier in children (index 1)
+

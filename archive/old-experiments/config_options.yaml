@@ -1,0 +1,92 @@
+
+templates:
+  solo:
+    label: "Solo (general agent)"
+    agents:
+      - id: task
+        name: "Task Agent"
+        description: "Executes tasks for you."
+  duo:
+    label: "Duo (research + execute)"
+    agents:
+      - id: research
+        name: "Research Agent"
+        description: "Researches information for you."
+      - id: execute
+        name: "Execution Agent"
+        description: "Executes tasks and actions."
+  team:
+    label: "Team (plan + research + execute)"
+    agents:
+      - id: planner
+        name: "Planner Agent"
+        description: "Helps with planning and strategy."
+      - id: research
+        name: "Research Agent"
+        description: "Researches information for you."
+      - id: execute
+        name: "Execution Agent"
+        description: "Executes tasks and actions."
+
+  default: "solo"
+
+llm:
+  gateways:
+    anthropic:
+      models:
+        - "sonnet-3.5"
+        - "sonnet-3.7"
+        - "sonnet-4"
+    openai:
+      models:
+        - "o4-mini"
+        - "gpt-5"
+    google:
+      models:
+        - "gemini-2.5-flash"
+        - "gemini-2.5-pro"
+
+  default:
+    gateway: "anthropic"
+    model: "sonnet-3.7"
+
+defaults:
+  features:
+    file_system: true
+    rag: true
+    terminal: true
+    human_in_the_loop: false
+  max_iterations: 30
+
+hints:
+  title: "Help / Hints"
+  config_screen:
+    - section: "Global Keys"
+      keys:
+        - key: "Up/Down"
+          desc: "Navigate between configuration rows."
+        - key: "Enter"
+          desc: "Confirms selection or launches the application."
+        - key: "Escape"
+          desc: "Cancel and exit the application."
+        - key: "Ctrl+H"
+          desc: "Toggle this help screen."
+    - section: "Editing Values"
+      keys:
+        - key: "Right Arrow"
+          desc: "Enter 'edit mode' for the selected row's options."
+        - key: "Left Arrow"
+          desc: "Exit 'edit mode' and return to row navigation."
+        - key: "Up/Down (in edit mode)"
+          desc: "Cycle through available options (e.g., templates, LLMs)."
+  main_screen:
+    - section: "Hotkeys"
+      keys:
+        - key: "Ctrl+C"
+          desc: "Exit the application."
+        - key: "Ctrl+H"
+          desc: "Show this help pop-up."
+        - key: "Ctrl+O"
+          desc: "Toggle the configuration options bar at the bottom."
+        - key: "Escape"
+          desc: "Cancel a running agent action or de-focus the text input."
