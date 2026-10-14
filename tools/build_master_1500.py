@@ -871,7 +871,7 @@ def write_markdown(path: Path, ordered: list[dict[str, Any]]) -> None:
         "",
         "**Company tags:** read these as *associated with* or *reported for*, not as verified predictions. The source data is community-maintained and ultimately derived from LeetCode company tags.",
         "",
-        "The filterable version is [`master-1500.csv`](master-1500.csv). Method and sources are in [`master-1500-method.md`](master-1500-method.md).",
+        "The problem type is hidden here so it does not give away the approach. It remains in [`master-1500.csv`](master-1500.csv) for later review. Method and sources are in [`master-1500-method.md`](master-1500-method.md).",
         "",
     ]
 
@@ -879,15 +879,15 @@ def write_markdown(path: Path, ordered: list[dict[str, Any]]) -> None:
         lines.extend([
             f"## {tier_name}",
             "",
-            "| Rank | Problem | Practice | Primary type | Company signal | Why here |",
-            "|---:|---|---|---|---|---|",
+            "| Rank | Problem | Practice | Company signal | Why here |",
+            "|---:|---|---|---|---|",
         ])
         for rank, item in by_tier[tier_name]:
             problem = f"[{item['title']}]({item['url']})"
             if item["id"]:
                 problem = f"LC {item['id']}: {problem}"
             lines.append(
-                f"| {rank} | {problem} | {item['practice_band']} | {item['family']} | "
+                f"| {rank} | {problem} | {item['practice_band']} | "
                 f"{company_summary(item)} | {why_summary(item)} |"
             )
         lines.append("")
