@@ -1,0 +1,92 @@
+[
+ {
+  "keep": "backtracking_constrained_generateparentheses.png",
+  "alt": "backtracking_counting_generateparentheses.png",
+  "reason": "Same open/close backtracking code; this card is clean and correct, the other has a broken walkthrough tree and wrong complexity."
+ },
+ {
+  "keep": "backtracking_combinations_combinationsum.png",
+  "alt": "backtracking_dfs_combinationsum.png",
+  "reason": "Standard for-loop-from-start backtracking (same template as subsets/combinations), correct and error-free; the include/exclude card has a mislabeled tree node."
+ },
+ {
+  "keep": "backtracking_constrained_nqueens.png",
+  "alt": "backtracking_sets_nqueens.png",
+  "reason": "Same cols/posDiag/negDiag set backtracking; this card is correct, the other mislabels the diagonals."
+ },
+ {
+  "keep": "backtracking_dfs_wordsearch.png",
+  "alt": "backtracking_dfs_wordsearch_v2.png",
+  "reason": "Same mark-with-# DFS code; this card's examples are correct, v2's 'SEE' path is wrong."
+ },
+ {
+  "keep": "backtracking_dedup_subsets2.png",
+  "alt": "backtracking_subsets_subsetsii.png",
+  "reason": "Same sort + skip-same-level backtracking; this card is a bit tighter (no needless nonlocal) and has a correct walkthrough."
+ },
+ {
+  "keep": "design_hashmapdll_lrucache.png",
+  "alt": "design_ordereddict_lrucache.png",
+  "reason": "Interviewers usually disallow OrderedDict; hashmap + DLL with dummy head/tail is the expected answer and its code is correct (only the walkthrough list order is off). OrderedDict kept as alt shortcut."
+ },
+ {
+  "keep": "graph_topo_coursescheduleii.png",
+  "alt": "graph_topo_courseschedule2.png",
+  "reason": "Same Kahn's BFS; this card's code is clean, the other has a 'defaduldict' typo that breaks the import and a dry-run step that puts 3 in the queue too early."
+ },
+ {
+  "keep": "trie_dfs_designaddandsearchwordsdatastructure.png",
+  "alt": "trie_dfs_designaddandsearchwordsdatastructure_v2.png",
+  "reason": "Pure recursive dfs(i, node) with one base case is easier to get right than v2's mixed loop-plus-recursion search; both are correct."
+ },
+ {
+  "keep": "trie_backtracking_wordsearch2.png",
+  "alt": "trie_backtracking_wordsearch2_v2.png",
+  "reason": "Storing the word at the trie node and marking cells with '#' means no visited set and no string building, and setting word=None dedupes; v2 has a typo and a wrong 'eat' path."
+ },
+ {
+  "keep": "tree_lca_lowestcommonancestorofabinarytree.png",
+  "alt": "tree_lca_lowestcommonancestor.png",
+  "reason": "Same post-order recursion but shorter (one combined base case, 'return left or right'); the other compares root.val to p/q, which are nodes in LC 236."
+ },
+ {
+  "keep": "hashing_signature_groupshiftedstrings.png",
+  "alt": "hashing_normalize_groupshiftedstrings.png",
+  "reason": "Diff-tuple key is a few lines with no empty-string special case; the normalize card is longer and its defaultdict import is garbled ('defatdiict')."
+ },
+ {
+  "keep": "graph_multisourcebfs_wallsandgates.png",
+  "alt": "graph_multisourcebfs_wallsandgates_v2.png",
+  "reason": "Uses the grid itself as the visited marker (only expand into INF, dist = parent + 1), so no visit set or level loop; v2 has an '==' vs '=' bug. Small slip in this card: stray ':' after queue.popleft()."
+ },
+ {
+  "keep": "design_bucketlist_alloonedatastructure.png",
+  "alt": "design_dll_allo1datastructure.png",
+  "reason": "Same count-bucket DLL + key->node map, but complete on one card with explicit head/tail sentinels; the prev pair splits concept (inc/dec elided) and code across two cards."
+ },
+ {
+  "keep": "design_bucketlist_alloonedatastructure.png",
+  "alt": "design_dll_allo1datastructure_v2.png",
+  "reason": "Same count-bucket DLL design; prev v2 is the code half of the two-card prev set (single circular root sentinel), equally valid but the one-card version is easier to revise."
+ },
+ {
+  "keep": "greedy_counting_taskscheduler.png",
+  "alt": "greedy_counting_taskscheduler_v2.png",
+  "reason": "Same max(len, (f-1)(n+1)+count) formula with clean code and a clear picture; v2 is a standalone card (not a part 2) whose extra heap-sim code has typos (values(!], garbled heappop/popleft)."
+ },
+ {
+  "keep": "unionfind_cycledetection_redundantconnection.png",
+  "alt": "graph_dfs_redundantconnection.png",
+  "reason": "Union-find is the standard answer: the first edge whose ends already share a root is the one; the DFS version needs fiddly cycleStart/parent tracking and a reverse edge scan (rank could even be dropped)."
+ },
+ {
+  "keep": "dp_lastposition_minimumwindowsubsequence.png",
+  "alt": "twopointers_forwardbackward_minimumwindowsubsequence.png",
+  "reason": "1-D dp[j] = start index of s2[0..j] match is one pass, ~12 lines, with no forward/backward pointer-reset trick; both codes are correct, but this card's example answer is wrong (should be 'bcde')."
+ },
+ {
+  "keep": "graph_dijkstra_pathwithmaximumminimumvalue.png",
+  "alt": "unionfind_dsu_pathwithmaximumminimumvalue.png",
+  "reason": "Max-heap Dijkstra is ~20 lines with no DSU class, sort, or active grid, and reuses a familiar template; both are correct (small slip here: stray ':' after len(grid[0]))."
+ }
+]

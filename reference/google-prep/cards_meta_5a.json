@@ -1,0 +1,98 @@
+{
+  "slidingwindow_variable_longestsubstringwithoutrepeatingcharacters.png": {
+    "title": "Longest Substring Without Repeating Characters",
+    "lc": "LC 3",
+    "difficulty": "Medium",
+    "problem": "Given a string s, return the length of the longest substring that contains no repeated characters."
+  },
+  "binarysearch_answer_aggressivecows.png": {
+    "title": "Aggressive Cows",
+    "lc": "",
+    "difficulty": "Medium",
+    "problem": "Given stall positions and k cows, place the cows in stalls so that the minimum distance between any two cows is as large as possible, and return that distance."
+  },
+  "tree_dfs_maximumdepthofbinarytree.png": {
+    "title": "Maximum Depth of Binary Tree",
+    "lc": "LC 104",
+    "difficulty": "Easy",
+    "problem": "Given the root of a binary tree, return the number of nodes on the longest path from the root down to a leaf."
+  },
+  "binarysearch_flatten_searcha2dmatrix.png": {
+    "title": "Search a 2D Matrix",
+    "lc": "LC 74",
+    "difficulty": "Medium",
+    "problem": "Given an m x n matrix whose rows are sorted and where each row's first value exceeds the previous row's last value, return whether a target value exists in it."
+  },
+  "tree_dfs_binarytreemaximumpathsum.png": {
+    "title": "Binary Tree Maximum Path Sum",
+    "lc": "LC 124",
+    "difficulty": "Hard",
+    "problem": "Given a binary tree, return the maximum sum of node values along any path, where a path may start and end at any nodes and visits each node at most once."
+  },
+  "dp_kadane_maximumproductsubarray.png": {
+    "title": "Maximum Product Subarray",
+    "lc": "LC 152",
+    "difficulty": "Medium",
+    "problem": "Given an integer array, find the non-empty contiguous subarray with the largest product and return that product."
+  },
+  "binarysearch_rotated_searchinrotatedsortedarray.png": {
+    "title": "Search in Rotated Sorted Array",
+    "lc": "LC 33",
+    "difficulty": "Medium",
+    "problem": "Given a sorted array of distinct integers that has been rotated at an unknown pivot, return the index of a target value or -1 if it is absent, in O(log n) time."
+  },
+  "heap_topk_topkfrequentelements.png": {
+    "title": "Top K Frequent Elements",
+    "lc": "LC 347",
+    "difficulty": "Medium",
+    "problem": "Given an integer array and an integer k, return the k most frequent elements in any order."
+  },
+  "linkedlist_fastslow_reorderlist.png": {
+    "title": "Reorder List",
+    "lc": "LC 143",
+    "difficulty": "Medium",
+    "problem": "Given the head of a singly linked list L0 -> L1 -> ... -> Ln, reorder it in place to L0 -> Ln -> L1 -> Ln-1 -> ... without changing node values."
+  },
+  "hashing_hashset_validsudoku.png": {
+    "title": "Valid Sudoku",
+    "lc": "LC 36",
+    "difficulty": "Medium",
+    "problem": "Given a partially filled 9 x 9 Sudoku board, determine whether the filled cells are valid: no digit repeats in any row, column, or 3 x 3 box."
+  },
+  "binarysearch_answer_kokoeatingbananas.png": {
+    "title": "Koko Eating Bananas",
+    "lc": "LC 875",
+    "difficulty": "Medium",
+    "problem": "Given banana pile sizes and h hours, where each hour Koko eats up to k bananas from a single pile, return the minimum integer k that lets her finish all piles within h hours."
+  },
+  "tree_bfs_binarytreezigzaglevelordertraversal.png": {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "lc": "LC 103",
+    "difficulty": "Medium",
+    "problem": "Given the root of a binary tree, return its node values level by level, alternating left-to-right and right-to-left on successive levels."
+  },
+  "slidingwindow_variable_longestrepeatingcharacterreplacement.png": {
+    "title": "Longest Repeating Character Replacement",
+    "lc": "LC 424",
+    "difficulty": "Medium",
+    "problem": "Given a string s and an integer k, return the length of the longest substring that can be made of one repeated character after changing at most k characters."
+  },
+  "prefixsum_xor_countsubarrayswithgivenxork.png": {
+    "title": "Count Subarrays with Given XOR K",
+    "lc": "",
+    "difficulty": "Medium",
+    "problem": "Given an integer array and an integer k, return the number of contiguous subarrays whose bitwise XOR equals k."
+  },
+  "monostack_monotonicdeque_slidingwindowmaximum.png": {
+    "title": "Sliding Window Maximum",
+    "lc": "LC 239",
+    "difficulty": "Hard",
+    "problem": "Given an integer array and a window size k, return the maximum value in each contiguous window of size k as the window slides from left to right."
+  },
+  "linkedlist_reverse_reversenodesinkgroup.png": {
+    "title": "Reverse Nodes in k-Group",
+    "lc": "LC 25",
+    "difficulty": "Hard",
+    "problem": "Given the head of a linked list, reverse its nodes k at a time and return the modified list, leaving any final group with fewer than k nodes unchanged."
+  }
+}

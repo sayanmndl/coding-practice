@@ -1,0 +1,86 @@
+{
+  "intervals_greedy_nonoverlappingintervals_v2.png": {
+    "title": "Erase Overlap Intervals",
+    "lc": "LC 435",
+    "difficulty": "Medium",
+    "problem": "Given a list of intervals, return the minimum number to remove so the rest don't overlap (touching endpoints are fine). Example: [[1,2],[2,3],[3,4],[1,3]] -> 1 (remove [1,3])."
+  },
+  "dp_lis_longestincreasingsubsequence_v2.png": {
+    "title": "Longest Increasing Subsequence (LIS)",
+    "lc": "LC 300",
+    "difficulty": "Medium",
+    "problem": "Given an integer array, return the length of the longest strictly increasing subsequence (not necessarily contiguous). Example: [10,9,2,5,3,7,101,18] -> 4 ([2,3,7,101])."
+  },
+  "dp_tabulation_distinctsubsequences.png": {
+    "title": "Distinct Subsequences",
+    "lc": "LC 115",
+    "difficulty": "Hard",
+    "problem": "Given strings s and t, count how many distinct subsequences of s equal t. Example: s='rabbbit', t='rabbit' -> 3 (delete any one of the three b's)."
+  },
+  "bitmanip_fulladder_sumoftwointegers.png": {
+    "title": "Sum of Two Integers",
+    "lc": "LC 371",
+    "difficulty": "Medium",
+    "problem": "Return a + b without using the + or - operators. Example: a=1, b=2 -> 3; a=-2, b=3 -> 1."
+  },
+  "dp_tabulation_mincostclimbingstairs.png": {
+    "title": "Min Cost Climbing Stairs",
+    "lc": "LC 746",
+    "difficulty": "Easy",
+    "problem": "cost[i] is the price of stepping on stair i; you may start at stair 0 or 1 and climb 1 or 2 steps at a time. Return the minimum cost to reach the top (just past the last stair). Example: [10,15,20] -> 15."
+  },
+  "dp_tabulation_editdistance.png": {
+    "title": "Edit Distance",
+    "lc": "LC 72",
+    "difficulty": "Medium",
+    "problem": "Given word1 and word2, return the minimum number of single-character inserts, deletes, or replaces to turn word1 into word2. Example: 'horse' -> 'ros' takes 3."
+  },
+  "dp_tabulation_jumpgame2_v2.png": {
+    "title": "Jump Game II",
+    "lc": "LC 45",
+    "difficulty": "Medium",
+    "problem": "nums[i] is the max jump length from index i; return the minimum number of jumps to reach the last index (always reachable). Example: [2,3,1,1,4] -> 2 (0->1->4)."
+  },
+  "dp_interval_burstballoons.png": {
+    "title": "Burst Balloons",
+    "lc": "LC 312",
+    "difficulty": "Hard",
+    "problem": "Bursting balloon i earns nums[left]*nums[i]*nums[right] using its current neighbours (out of bounds counts as 1). Return the max coins from bursting all balloons. Example: [3,1,5,8] -> 167."
+  },
+  "greedy_lastindex_partitionlabels.png": {
+    "title": "Partition Labels",
+    "lc": "LC 763",
+    "difficulty": "Medium",
+    "problem": "Split a string into as many parts as possible so each letter appears in only one part; return the part sizes. Example: 'ababcbacadefegdehijhklij' -> [9,7,8]."
+  },
+  "dp_statemachine_besttimetobuyandsellstockwithcooldown.png": {
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "lc": "LC 309",
+    "difficulty": "Medium",
+    "problem": "Given daily prices, make as many buy/sell transactions as you like (hold one share at a time), but after selling you must wait one day before buying again. Return the max profit. Example: [1,2,3,0,2] -> 3 (buy, sell, cooldown, buy, sell)."
+  },
+  "greedy_filter_mergetripletstoformtargettriplet.png": {
+    "title": "Merge Triplets",
+    "lc": "LC 1899",
+    "difficulty": "Medium",
+    "problem": "Merging triplets takes the element-wise max. Given triplets and a target, return true if some subset merges exactly into the target. Example: [[2,5,3],[1,8,4],[1,7,5]], target [2,7,5] -> true (merge 1st and 3rd)."
+  },
+  "greedy_runningsum_gasstation.png": {
+    "title": "Gas Station",
+    "lc": "LC 134",
+    "difficulty": "Medium",
+    "problem": "Stations sit in a circle; gas[i] is fuel at station i and cost[i] is fuel to drive to the next one. Return the start index that lets you go all the way around once, or -1. Example: gas=[1,2,3,4,5], cost=[3,4,5,1,2] -> 3."
+  },
+  "dp_knapsack_coinchange2.png": {
+    "title": "Coin Change II",
+    "lc": "LC 518",
+    "difficulty": "Medium",
+    "problem": "Given coin values (unlimited supply of each) and an amount, count the combinations (order doesn't matter) that add up to the amount. Example: amount=5, coins=[1,2,5] -> 4."
+  },
+  "dp_tabulation_interleavingstring.png": {
+    "title": "Interleaving String",
+    "lc": "LC 97",
+    "difficulty": "Medium",
+    "problem": "Return true if s3 can be formed by interleaving s1 and s2 while keeping each string's internal order. Example: s1='aabcc', s2='dbbca', s3='aadbbcbcac' -> true."
+  }
+}

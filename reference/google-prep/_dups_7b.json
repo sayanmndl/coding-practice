@@ -1,0 +1,5 @@
+[
+  {"keep": "intervals_greedy_nonoverlappingintervals.png", "alt": "intervals_greedy_nonoverlappingintervals_v2.png", "reason": "Same LC 435 greedy. Existing sorts by end and just counts; the new card sorts by start and needs prevEnd = min(...) on overlap, which is one more thing to get wrong."},
+  {"keep": "dp_lis_longestincreasingsubsequence.png", "alt": "dp_lis_longestincreasingsubsequence_v2.png", "reason": "Same LC 300 tails + bisect solution. Existing code is shorter (no special case for empty input, no separate LIS counter); the new card's only extra is the O(n^2) DP baseline."},
+  {"keep": "dp_tabulation_jumpgame2.png", "alt": "dp_tabulation_jumpgame2_v2.png", "reason": "Same LC 45 right-to-left O(n^2) DP, nearly line for line. Existing uses float('inf') instead of the magic 1000000, so it reads more clearly."}
+]

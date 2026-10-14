@@ -1,0 +1,236 @@
+{
+ "stack_callstack_exclusivetimeoffunctions.png": {
+  "title": "Exclusive Time of Functions",
+  "lc": "LC 636",
+  "difficulty": "Medium",
+  "problem": "Given n and a list of logs \"id:start|end:timestamp\" from a single-threaded CPU, return each function's exclusive execution time (time spent in it, excluding calls it made)."
+ },
+ "stack_indices_longestvalidparentheses.png": {
+  "title": "Longest Valid Parentheses",
+  "lc": "LC 32",
+  "difficulty": "Hard",
+  "problem": "Given a string of '(' and ')', return the length of the longest contiguous substring that is a well-formed parentheses sequence."
+ },
+ "stack_matching_checkwordvalidaftersubstitutions.png": {
+  "title": "Check If Word Is Valid After Substitutions",
+  "lc": "LC 1003",
+  "difficulty": "Medium",
+  "problem": "Starting from an empty string, you may repeatedly insert \"abc\" at any position. Given a string s, return whether it can be produced this way."
+ },
+ "stack_matching_validparentheses.png": {
+  "title": "Valid Parentheses",
+  "lc": "LC 20",
+  "difficulty": "Easy",
+  "problem": "Given a string of brackets '()[]{}', return whether every opener is closed by the matching type in the correct order."
+ },
+ "stack_nested_decodestring.png": {
+  "title": "Decode String",
+  "lc": "LC 394",
+  "difficulty": "Medium",
+  "problem": "Given an encoded string like \"3[a2[c]]\" where k[s] means s repeated k times (nesting allowed), return the decoded string."
+ },
+ "string_formatting_formatnumberwithxsignificantdigits.png": {
+  "title": "Format Number with X Significant Digits",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a numeric string and an integer X, return the number truncated to X significant digits and formatted with thousands separators (padding the integer part with zeros if needed)."
+ },
+ "string_greedy_licenseplategenerator.png": {
+  "title": "License Plate Generator",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a length, a format string ('L' = letter slot, 'D' = digit slot, other characters fixed) and a string of required characters, return any valid plate that matches the format and contains all required characters, or \"\" if impossible."
+ },
+ "string_greedy_textjustification.png": {
+  "title": "Text Justification",
+  "lc": "LC 68",
+  "difficulty": "Hard",
+  "problem": "Given a list of words and a width maxWidth, lay them out into lines of exactly maxWidth characters, fully justified (extra spaces distributed left-first), with the last line left-justified."
+ },
+ "string_hamming_wordswithintwoeditsofdictionary.png": {
+  "title": "Words Within Two Edits of Dictionary",
+  "lc": "LC 2452",
+  "difficulty": "Medium",
+  "problem": "Given lists of query words and dictionary words of equal length, return the queries that can be turned into some dictionary word by changing at most two letters."
+ },
+ "string_minimax_guesstheword.png": {
+  "title": "Guess the Word",
+  "lc": "LC 843",
+  "difficulty": "Hard",
+  "problem": "A secret word is chosen from a list of distinct 6-letter words. Using Master.guess(word), which returns the number of exact positional matches, find the secret within a limited number of guesses."
+ },
+ "string_runlength_stringcompression.png": {
+  "title": "Run-Length Encoding (String Compression)",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a string, compress it by replacing each run of consecutive identical characters with the character followed by the run length, and return the result."
+ },
+ "tree_degree_findrootthatmakesgraphbinarytree.png": {
+  "title": "Find a Root That Makes the Graph a Binary Tree",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given an undirected tree with n nodes where each node has degree at most 3, return a node that, chosen as root, makes the tree binary (or -1). Follow-ups add node colors that must alternate (B/W) or cycle (R->B->W) by depth."
+ },
+ "tree_dfs_binarytreeislands.png": {
+  "title": "Binary Tree Islands (Count & Sizes)",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a binary tree whose nodes hold 0 or 1, count the islands, i.e. groups of 1-nodes connected through parent-child edges, and return their sizes."
+ },
+ "tree_dfs_binarytreevalueislands.png": {
+  "title": "Binary Tree Value Islands",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a binary tree, group nodes into islands of equal value connected through parent-child edges; return the number of islands per value and their sizes."
+ },
+ "tree_postorder_deletenodesandreturnforest.png": {
+  "title": "Delete Nodes And Return Forest",
+  "lc": "LC 1110",
+  "difficulty": "Medium",
+  "problem": "Given the root of a binary tree with distinct values and a list of values to delete, delete those nodes and return the roots of the remaining forest."
+ },
+ "tree_serialize_serializeanddeserializebinarytree.png": {
+  "title": "Serialize and Deserialize Binary Tree",
+  "lc": "LC 297",
+  "difficulty": "Hard",
+  "problem": "Design functions to serialize a binary tree to a string and deserialize that string back to the identical tree."
+ },
+ "tree_xor_findrootofnarytree.png": {
+  "title": "Find Root of N-ary Tree",
+  "lc": "LC 1506",
+  "difficulty": "Medium",
+  "problem": "Given all nodes of an N-ary tree in arbitrary order (each with its children list), return the root node."
+ },
+ "trie_ahocorasick_multipatternstringreplacement.png": {
+  "title": "Multi-Pattern String Replacement",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a text and a dictionary of pattern -> replacement, replace every whole-word occurrence of any pattern in the text (preferring the longest match at a position) and return the new string."
+ },
+ "trie_ahocorasick_multipatternstringreplacement_v2.png": {
+  "title": "Multi-Pattern String Replacement",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a text and a dictionary of pattern -> replacement, replace every whole-token occurrence of any pattern in a single pass (longest match wins) and return the rewritten string. Explanation-focused version of the card."
+ },
+ "trie_backtracking_wordsearch2.png": {
+  "title": "Word Search II",
+  "lc": "LC 212",
+  "difficulty": "Hard",
+  "problem": "Given an m x n board of letters and a list of words, return all words that can be formed from sequentially adjacent cells, using each cell at most once per word."
+ },
+ "trie_dfs_designaddandsearchwordsdatastructure.png": {
+  "title": "Design Add and Search Words Data Structure",
+  "lc": "LC 211",
+  "difficulty": "Medium",
+  "problem": "Design a structure with addWord(word) and search(word), where search patterns may contain '.' matching any single letter."
+ },
+ "trie_frequency_designautocompletesystem.png": {
+  "title": "Design Search Autocomplete System",
+  "lc": "LC 642",
+  "difficulty": "Hard",
+  "problem": "Given historical sentences with counts, implement input(c): as the user types characters, return the top 3 historical sentences with the typed prefix (by frequency, then lexicographically); '#' ends and records the sentence."
+ },
+ "trie_pathsegment_httproutematching.png": {
+  "title": "HTTP Route Matching",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Implement a router that registers URL patterns with static segments and parameters (e.g. /users/:id) and, given a request path, returns the matching handler and extracted parameters, preferring static matches over params."
+ },
+ "trie_pathtrie_designfilesystem.png": {
+  "title": "Design File System",
+  "lc": "LC 1166",
+  "difficulty": "Medium",
+  "problem": "Implement createPath(path, value), which creates a new path only if its parent exists and it doesn't already exist, and get(path), which returns its value or -1."
+ },
+ "twopointers_greedy_swapadjacentinlrstring.png": {
+  "title": "Swap Adjacent in LR String",
+  "lc": "LC 777",
+  "difficulty": "Medium",
+  "problem": "Strings of 'L', 'R' and 'X' allow moves \"XL\"->\"LX\" and \"RX\"->\"XR\". Given start and end, return whether start can be transformed into end."
+ },
+ "twopointers_hashset_3sum.png": {
+  "title": "3Sum",
+  "lc": "LC 15",
+  "difficulty": "Medium",
+  "problem": "Given an integer array, return all unique triplets whose elements sum to zero."
+ },
+ "twopointers_opposite_trappingrainwater.png": {
+  "title": "Trapping Rain Water",
+  "lc": "LC 42",
+  "difficulty": "Hard",
+  "problem": "Given non-negative bar heights of width 1, return how much rainwater is trapped between the bars after raining."
+ },
+ "twopointers_opposite_twosum2inputarrayissorted.png": {
+  "title": "Two Sum II - Input Array Is Sorted",
+  "lc": "LC 167",
+  "difficulty": "Medium",
+  "problem": "Given a 1-indexed array sorted in non-decreasing order and a target, return the indices of the two numbers that add up to the target, using constant extra space."
+ },
+ "twopointers_reverse_nextpermutation.png": {
+  "title": "Next Permutation",
+  "lc": "LC 31",
+  "difficulty": "Medium",
+  "problem": "Given an array of integers, rearrange it in place into the lexicographically next greater permutation, or the lowest order if none exists."
+ },
+ "twopointers_sortedcount_dicewinprobability.png": {
+  "title": "Dice Win Probability",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given the face values of two dice A and B, return the probability that a roll of A beats a roll of B (A's value strictly greater)."
+ },
+ "unionfind_cycledetection_redundantconnection.png": {
+  "title": "Redundant Connection",
+  "lc": "LC 684",
+  "difficulty": "Medium",
+  "problem": "A tree of n nodes had one extra edge added. Given the edge list, return an edge whose removal leaves a tree (the last such edge in input order)."
+ },
+ "unionfind_dsu_accountsmerge.png": {
+  "title": "Accounts Merge",
+  "lc": "LC 721",
+  "difficulty": "Medium",
+  "problem": "Given accounts as [name, email1, email2, ...], merge accounts that share any email and return each person's name with their sorted emails."
+ },
+ "unionfind_dsu_countalienpairsfromdifferentplanets.png": {
+  "title": "Count Alien Pairs from Different Planets",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given n aliens and pairs of aliens known to be from the same planet, return the number of pairs of aliens that are from different planets."
+ },
+ "unionfind_dsu_earliestacquaintancetime.png": {
+  "title": "The Earliest Moment When Everyone Become Friends",
+  "lc": "LC 1101",
+  "difficulty": "Medium",
+  "problem": "Given n people and timestamped logs [time, a, b] meaning a and b became friends (friendship is transitive), return the earliest time everyone is acquainted, or -1."
+ },
+ "unionfind_dsu_pathwithmaximumminimumvalue.png": {
+  "title": "Path With Maximum Minimum Value",
+  "lc": "LC 1102",
+  "difficulty": "Medium",
+  "problem": "Given an m x n grid, find a 4-directional path from top-left to bottom-right that maximizes the minimum value along the path, and return that score."
+ },
+ "unionfind_nextpointer_rangeassignmentqueries.png": {
+  "title": "Range Assignment Queries on an Array",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given an array and queries (L, R, K) that set every element in [L, R] to K, applied in order, return the final array. Variants: K is the same for all queries, or differs per query."
+ },
+ "unionfind_overview_disjointsetunion.png": {
+  "title": "Union-Find (Disjoint Set Union)",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Concept card reviewing the DSU data structure: find with path compression, union by size/rank, near-constant amortized cost, and uses such as cycle detection and counting connected components."
+ },
+ "backtracking_combinations_combinationsum.png": {
+  "title": "Combination Sum",
+  "lc": "LC 39",
+  "difficulty": "Medium",
+  "problem": "Given distinct positive candidates and a target, return all unique combinations that sum to the target, where each candidate may be used unlimited times."
+ },
+ "backtracking_constrained_generateparentheses.png": {
+  "title": "Generate Parentheses",
+  "lc": "LC 22",
+  "difficulty": "Medium",
+  "problem": "Given n, return all combinations of n pairs of well-formed parentheses."
+ }
+}

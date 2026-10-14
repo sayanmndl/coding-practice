@@ -1,0 +1,212 @@
+{
+ "backtracking_combinations_lettercombinationsofaphonenumber.png": {
+  "title": "Letter Combinations of a Phone Number",
+  "lc": "LC 17",
+  "difficulty": "Medium",
+  "problem": "Given a string of digits 2-9, return all letter combinations they could represent on a phone keypad."
+ },
+ "backtracking_dfs_findcheeseinmaze.png": {
+  "title": "Find Cheese in a Maze",
+  "lc": "",
+  "difficulty": "",
+  "problem": "A mouse in an unknown maze can only call move(direction) (returns whether it moved) and isCheese(). Write a routine that explores the maze and returns whether the mouse can find the cheese."
+ },
+ "design_dll_allo1datastructure.png": {
+  "title": "All O(1) Data Structure",
+  "lc": "LC 432",
+  "difficulty": "Hard",
+  "problem": "Design a structure storing string counts with inc(key), dec(key), getMaxKey() and getMinKey(), each running in O(1) average time."
+ },
+ "design_dll_allo1datastructure_v2.png": {
+  "title": "All O(1) Data Structure",
+  "lc": "LC 432",
+  "difficulty": "Hard",
+  "problem": "Design a structure storing string counts with inc(key), dec(key), getMaxKey() and getMinKey(), each in O(1). Second version with full inc/dec code and a usage example."
+ },
+ "design_ordereddict_lrucache.png": {
+  "title": "LRU Cache",
+  "lc": "LC 146",
+  "difficulty": "Medium",
+  "problem": "Design a cache with fixed capacity supporting get and put in O(1), evicting the least recently used key when full."
+ },
+ "dp_lastposition_minimumwindowsubsequence.png": {
+  "title": "Minimum Window Subsequence",
+  "lc": "LC 727",
+  "difficulty": "Hard",
+  "problem": "Given strings s1 and s2, return the shortest contiguous substring of s1 that contains s2 as a subsequence (leftmost if tied), or \"\"."
+ },
+ "graph_bfs_wordladder.png": {
+  "title": "Word Ladder",
+  "lc": "LC 127",
+  "difficulty": "Hard",
+  "problem": "Given beginWord, endWord and a word list, return the number of words in the shortest transformation sequence changing one letter at a time with each word in the list, or 0."
+ },
+ "graph_candidateelimination_findthecelebrity.png": {
+  "title": "Find the Celebrity",
+  "lc": "LC 277",
+  "difficulty": "Medium",
+  "problem": "Among n people, a celebrity is known by everyone and knows no one. Using the API knows(a, b), return the celebrity's label or -1, minimizing calls."
+ },
+ "graph_kruskal_connectingcitieswithminimumcost.png": {
+  "title": "Connecting Cities With Minimum Cost",
+  "lc": "LC 1135",
+  "difficulty": "Medium",
+  "problem": "Given n cities and weighted connections [a, b, cost], return the minimum cost to connect all cities, or -1 if impossible."
+ },
+ "graph_topo_courseschedule2.png": {
+  "title": "Course Schedule II",
+  "lc": "LC 210",
+  "difficulty": "Medium",
+  "problem": "Given numCourses and prerequisite pairs, return an order in which all courses can be taken, or an empty array if impossible."
+ },
+ "heap_topk_kclosestpointstoorigin.png": {
+  "title": "K Closest Points to Origin",
+  "lc": "LC 973",
+  "difficulty": "Medium",
+  "problem": "Given points on a plane and an integer k, return the k points closest to the origin (Euclidean distance)."
+ },
+ "queue_bfs_nestedlistweightsum2.png": {
+  "title": "Nested List Weight Sum II",
+  "lc": "LC 364",
+  "difficulty": "Medium",
+  "problem": "Given a nested list of integers, return the sum of each integer multiplied by its weight, where weight = maxDepth - depth + 1 (deeper integers weigh less)."
+ },
+ "tree_dfs_diameterofbinarytree.png": {
+  "title": "Diameter of Binary Tree / N-ary Tree",
+  "lc": "LC 543",
+  "difficulty": "Easy",
+  "problem": "Given the root of a binary tree (or an N-ary tree), return the length in edges of the longest path between any two nodes."
+ },
+ "tree_dfs_findleavesofbinarytree.png": {
+  "title": "Find Leaves of Binary Tree",
+  "lc": "LC 366",
+  "difficulty": "Medium",
+  "problem": "Given a binary tree, repeatedly collect and remove all its leaves until it is empty; return the collected groups in order."
+ },
+ "graph_dfs_clonegraph.png": {
+  "title": "Clone Graph",
+  "lc": "LC 133",
+  "difficulty": "Medium",
+  "problem": "Given a reference to a node in a connected undirected graph, return a deep copy of the whole graph."
+ },
+ "hashing_zonemap_maximumnumberoffamiliesinacinema.png": {
+  "title": "Cinema Seat Allocation",
+  "lc": "LC 1386",
+  "difficulty": "Medium",
+  "problem": "A cinema has n rows of seats 1-10 and a list of reserved seats. Return the maximum number of four-person families that can sit in four adjacent seats in one row (an aisle split across 4-7 is allowed)."
+ },
+ "intervals_interval_mergeintervals.png": {
+  "title": "Merge Intervals",
+  "lc": "LC 56",
+  "difficulty": "Medium",
+  "problem": "Given a list of intervals, merge all overlapping intervals and return the non-overlapping result."
+ },
+ "recursion_dfs_nestedlistweightsum.png": {
+  "title": "Nested List Weight Sum",
+  "lc": "LC 339",
+  "difficulty": "Medium",
+  "problem": "Given a nested list of integers, return the sum of each integer multiplied by its depth."
+ },
+ "stack_expressioneval_basiccalculator2.png": {
+  "title": "Basic Calculator II",
+  "lc": "LC 227",
+  "difficulty": "Medium",
+  "problem": "Given a string expression with non-negative integers, '+', '-', '*', '/' (integer division truncating toward zero) and spaces, evaluate it without eval."
+ },
+ "stack_pathresolve_simplifypath.png": {
+  "title": "Simplify Path",
+  "lc": "LC 71",
+  "difficulty": "Medium",
+  "problem": "Given an absolute Unix-style path, return its simplified canonical form, resolving '.', '..' and repeated slashes."
+ },
+ "stack_pathresolve_simulateunixcdcommand.png": {
+  "title": "Simulate Unix cd Command",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a current directory, a cd argument (absolute or relative, with '.' and '..') and a map of symbolic links, return the resulting canonical absolute path, detecting symlink cycles."
+ },
+ "stack_twopass_removeinvalidparentheses.png": {
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "lc": "LC 1249",
+  "difficulty": "Medium",
+  "problem": "Given a string of letters and parentheses, remove the minimum number of parentheses so the result is valid and return any such string. (Card is titled Remove Invalid Parentheses.)"
+ },
+ "tree_bfs_treesideviews.png": {
+  "title": "Tree Side Views",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given a binary tree, return the values visible from the left side and from the right side, i.e. the first and last node at each level."
+ },
+ "tree_dfs_sumroottoleafnumbers.png": {
+  "title": "Sum Root to Leaf Numbers",
+  "lc": "LC 129",
+  "difficulty": "Medium",
+  "problem": "Each root-to-leaf path of a binary tree of digits forms a number; return the sum of all such numbers."
+ },
+ "tree_lca_lowestcommonancestor.png": {
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "lc": "LC 236",
+  "difficulty": "Medium",
+  "problem": "Given a binary tree and two nodes p and q in it, return their lowest common ancestor."
+ },
+ "twopointers_palindrome_validpalindrome2.png": {
+  "title": "Valid Palindrome II",
+  "lc": "LC 680",
+  "difficulty": "Easy",
+  "problem": "Given a string, return whether it can become a palindrome after deleting at most one character."
+ },
+ "twopointers_parse_validwordabbreviation.png": {
+  "title": "Valid Word Abbreviation",
+  "lc": "LC 408",
+  "difficulty": "Easy",
+  "problem": "Given a word and an abbreviation where numbers (no leading zeros) replace that many characters, return whether the abbreviation matches the word."
+ },
+ "coding_algorithms_samplingattentionloop.png": {
+  "title": "ML Algorithms: Sampling, Attention, Training Loop",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic card: reservoir sampling, weighted random sampling, Fisher-Yates shuffle, matrix multiplication from scratch, multi-head attention reshapes in NumPy, and a PyTorch training/evaluation loop."
+ },
+ "coding_linkedin_decodinghmmtfidf.png": {
+  "title": "Decoding, HMMs, TF-IDF, Negative Sampling",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic ML coding card: greedy decoding, beam search, Viterbi, HMM forward and forward-backward posterior decoding, TF-IDF from scratch, and skip-gram negative sampling in NumPy."
+ },
+ "coding_linkedin_l1l2knnkmeans.png": {
+  "title": "L1/L2 Minimizers, KNN, K-Means",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic ML coding card: the point minimizing L1 (median) vs L2 (mean) distance, a NumPy KNN classifier, and K-Means from scratch, with shape and complexity notes."
+ },
+ "coding_linkedin_logregdecisiontree.png": {
+  "title": "Logistic Regression, Linear Regression, Decision Tree Splits",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic ML coding card: logistic and linear regression trained with gradient descent in NumPy, and finding a decision tree's best split by Gini impurity and by information gain."
+ },
+ "coding_linkedin_pytorchtrainingloop.png": {
+  "title": "PyTorch Training and Validation Loop",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Reviews writing a PyTorch MLP classifier with Dataset/DataLoader, a training loop, validation/test loops, tensor shapes, and common mistakes."
+ },
+ "coding_linkedin_softmaxnbmlp.png": {
+  "title": "Softmax, Naive Bayes, Gradient Check, MLP",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic ML coding card: stable softmax + cross-entropy, multinomial Naive Bayes, numerical gradient checking, a single-layer dense classifier, and a two-layer MLP with backprop in NumPy."
+ },
+ "coding_linkedin_statspcaoptimizers.png": {
+  "title": "Online Stats, PCA, Optimizers",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Multi-topic ML coding card: online mean, Welford online variance, PCA from scratch, and SGD/Momentum/Nesterov/Adam update rules."
+ },
+ "coding_sampling_randomalgorithms.png": {
+  "title": "Sampling Algorithms",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Reviews weighted random sampling, rejection sampling (randM -> randN, e.g. rand7 -> rand10), reservoir sampling for k items and for one item, and the Fisher-Yates shuffle."
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "backtracking_constrained_nqueens.png": {
+  "title": "N-Queens",
+  "lc": "LC 51",
+  "difficulty": "Hard",
+  "problem": "Given n, return all distinct ways to place n queens on an n x n board so that no two queens attack each other."
+ },
+ "backtracking_subsets_subsetsii.png": {
+  "title": "Subsets II",
+  "lc": "LC 90",
+  "difficulty": "Medium",
+  "problem": "Given an integer array that may contain duplicates, return all possible subsets without duplicate subsets."
+ },
+ "backtracking_template_backtrackingblueprint.png": {
+  "title": "Backtracking Blueprint",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Concept card reviewing a generic backtracking template: state, goal/base case, iterating choices, pruning, and the do/recurse/undo pattern."
+ },
+ "binarysearch_answerspace_maximumvalueatagivenindex.png": {
+  "title": "Maximum Value at a Given Index in a Bounded Array",
+  "lc": "LC 1802",
+  "difficulty": "Medium",
+  "problem": "Build an array of n positive integers whose adjacent elements differ by at most 1 and whose sum is at most maxSum; return the largest possible value at a given index."
+ },
+ "binarysearch_answerspace_minimumlimitofballsinabag.png": {
+  "title": "Minimum Limit of Balls in a Bag",
+  "lc": "LC 1760",
+  "difficulty": "Medium",
+  "problem": "Given bag sizes and maxOperations (each splits a bag into two positive bags), return the minimum possible size of the largest bag."
+ },
+ "binarysearch_bisect_findpeakelement.png": {
+  "title": "Find Peak Element",
+  "lc": "LC 162",
+  "difficulty": "Medium",
+  "problem": "Given an array where neighbors differ, return the index of any element strictly greater than its neighbors, in O(log n) time."
+ },
+ "binarysearch_bounds_findfirstandlastpositionofelementinsortedarray.png": {
+  "title": "Find First and Last Position of Element in Sorted Array",
+  "lc": "LC 34",
+  "difficulty": "Medium",
+  "problem": "Given a sorted array and a target, return the first and last indices of the target, or [-1, -1], in O(log n) time."
+ },
+ "binarysearch_rotated_searchinrotatedsortedarray.png": {
+  "title": "Search in Rotated Sorted Array",
+  "lc": "LC 33",
+  "difficulty": "Medium",
+  "problem": "Given a sorted array of distinct integers rotated at an unknown pivot and a target, return the target's index or -1 in O(log n) time."
+ },
+ "bst_inorderstack_binarysearchtreeiterator.png": {
+  "title": "Binary Search Tree Iterator",
+  "lc": "LC 173",
+  "difficulty": "Medium",
+  "problem": "Implement an iterator over a BST with next() and hasNext() that returns values in in-order (ascending) sequence, using O(h) memory."
+ },
+ "design_ordereddict_lfucache.png": {
+  "title": "LFU Cache",
+  "lc": "LC 460",
+  "difficulty": "Hard",
+  "problem": "Design a cache with a fixed capacity supporting get and put in O(1); when full, evict the least frequently used key, breaking ties by least recently used."
+ },
+ "design_queuecircular_designhitcounter.png": {
+  "title": "Design Hit Counter",
+  "lc": "LC 362",
+  "difficulty": "Medium",
+  "problem": "Design a counter with hit(timestamp) and getHits(timestamp) that returns the number of hits in the past 300 seconds; timestamps arrive in non-decreasing order."
+ },
+ "dp_knapsack_coinchange.png": {
+  "title": "Coin Change",
+  "lc": "LC 322",
+  "difficulty": "Medium",
+  "problem": "Given coin denominations (unlimited supply) and an amount, return the fewest coins needed to make the amount, or -1 if impossible."
+ },
+ "dp_lis_longestincreasingsubsequence.png": {
+  "title": "Longest Increasing Subsequence",
+  "lc": "LC 300",
+  "difficulty": "Medium",
+  "problem": "Given an integer array, return the length of the longest strictly increasing subsequence."
+ },
+ "dp_memo_longestincreasingpathinamatrix.png": {
+  "title": "Longest Increasing Path in a Matrix",
+  "lc": "LC 329",
+  "difficulty": "Hard",
+  "problem": "Given an m x n integer matrix, return the length of the longest strictly increasing path moving in the four directions."
+ },
+ "dp_statemachine_minimumoperationstomakecharacterfrequenciesequal.png": {
+  "title": "Minimum Operations to Make Character Frequencies Equal",
+  "lc": "LC 3389",
+  "difficulty": "Hard",
+  "problem": "Given a string, you may delete a character, insert a character, or change a character to the next letter. Return the minimum operations to make all characters that appear occur the same number of times."
+ },
+ "dp_tabulation_houserobber.png": {
+  "title": "House Robber",
+  "lc": "LC 198",
+  "difficulty": "Medium",
+  "problem": "Given money in each house along a street, return the maximum amount you can rob without robbing two adjacent houses."
+ },
+ "dp_tabulation_maximumfarefromautonomouspassengerpickup.png": {
+  "title": "Maximum Fare From Autonomous Passenger Pickup",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given distances[i] (0 = no passenger, d = a passenger at i travelling d, after which the next pickup can be at i+d or later) and fare = 1 + 0.5*d, return the maximum total fare and the chosen pickup indices."
+ },
+ "dp_tabulation_wordbreak.png": {
+  "title": "Word Break",
+  "lc": "LC 139",
+  "difficulty": "Medium",
+  "problem": "Given a string s and a dictionary of words, return whether s can be segmented into a sequence of one or more dictionary words."
+ },
+ "graph_bfs_shortestpathinbinarymatrix.png": {
+  "title": "Shortest Path in Binary Matrix",
+  "lc": "LC 1091",
+  "difficulty": "Medium",
+  "problem": "Given an n x n binary grid, return the length of the shortest 8-directional path of 0-cells from top-left to bottom-right, or -1."
+ },
+ "graph_dfs_numberofislands.png": {
+  "title": "Number of Islands",
+  "lc": "LC 200",
+  "difficulty": "Medium",
+  "problem": "Given a 2D grid of '1' (land) and '0' (water), return the number of islands formed by 4-directionally connected land."
+ },
+ "graph_topo_coursescheduleii.png": {
+  "title": "Course Schedule II",
+  "lc": "LC 210",
+  "difficulty": "Medium",
+  "problem": "Given numCourses and prerequisite pairs, return an order in which all courses can be taken, or an empty array if impossible."
+ },
+ "hashing_hashset_validsudoku.png": {
+  "title": "Valid Sudoku",
+  "lc": "LC 36",
+  "difficulty": "Medium",
+  "problem": "Given a partially filled 9x9 Sudoku board, return whether the filled cells are valid: no repeated digit in any row, column or 3x3 box."
+ },
+ "hashing_signature_groupshiftedstrings.png": {
+  "title": "Group Shifted Strings",
+  "lc": "LC 249",
+  "difficulty": "Medium",
+  "problem": "Given a list of strings, group together those that belong to the same shifting sequence (each letter shifted by the same amount, wrapping around)."
+ },
+ "heap_greedy_minimumnumberofrefuelingstops.png": {
+  "title": "Minimum Number of Refueling Stops",
+  "lc": "LC 871",
+  "difficulty": "Hard",
+  "problem": "Given a target distance, starting fuel and gas stations [position, fuel] along the way, return the minimum refueling stops needed to reach the target, or -1."
+ },
+ "heap_prefixsuffix_minimumdifferenceinsumsafterremovalofelements.png": {
+  "title": "Minimum Difference in Sums After Removal of Elements",
+  "lc": "LC 2163",
+  "difficulty": "Hard",
+  "problem": "Given an array of 3n elements, remove any n elements and split the rest into a first half and second half; return the minimum possible (sum of first n) - (sum of second n)."
+ },
+ "linkedlist_dummyhead_mergetwosortedlists.png": {
+  "title": "Merge Two Sorted Lists",
+  "lc": "LC 21",
+  "difficulty": "Easy",
+  "problem": "Given the heads of two sorted linked lists, merge them into one sorted list by splicing nodes and return its head."
+ },
+ "linkedlist_reverse_reversenodesinkgroup.png": {
+  "title": "Reverse Nodes in k-Group",
+  "lc": "LC 25",
+  "difficulty": "Hard",
+  "problem": "Given a linked list and k, reverse the nodes k at a time and return the modified list; a leftover group shorter than k stays as is."
+ },
+ "monostack_monotonic_numberofvisiblepeopleinaqueue.png": {
+  "title": "Number of Visible People in a Queue",
+  "lc": "LC 1944",
+  "difficulty": "Hard",
+  "problem": "Given distinct heights of people in a queue, for each person return how many people to their right they can see (everyone between must be shorter than both)."
+ },
+ "prefixsum_bisect_randompickwithweight.png": {
+  "title": "Random Pick with Weight",
+  "lc": "LC 528",
+  "difficulty": "Medium",
+  "problem": "Given an array of positive weights, implement pickIndex() that returns index i with probability w[i] / sum(w)."
+ },
+ "prefixsum_diffarray_zeroarraytransformationi.png": {
+  "title": "Zero Array Transformation I",
+  "lc": "LC 3355",
+  "difficulty": "Medium",
+  "problem": "Given nums and queries [l, r], where each query may decrement any subset of indices in its range by 1, return whether nums can become all zeros after processing every query."
+ },
+ "slidingwindow_variable_longestrepeatingcharacterreplacement.png": {
+  "title": "Longest Repeating Character Replacement",
+  "lc": "LC 424",
+  "difficulty": "Medium",
+  "problem": "Given an uppercase string s and an integer k, return the length of the longest substring of one repeated letter obtainable by changing at most k characters."
+ },
+ "slidingwindow_variable_minimumwindowsubstring.png": {
+  "title": "Minimum Window Substring",
+  "lc": "LC 76",
+  "difficulty": "Hard",
+  "problem": "Given strings s and t, return the shortest substring of s containing every character of t (with multiplicity), or \"\"."
+ },
+ "stack_expressioneval_basiccalculator.png": {
+  "title": "Basic Calculator",
+  "lc": "LC 224",
+  "difficulty": "Hard",
+  "problem": "Given a string expression with integers, '+', '-', parentheses and spaces, evaluate it without using eval."
+ },
+ "string_simulation_zigzagconversion.png": {
+  "title": "Zigzag Conversion",
+  "lc": "LC 6",
+  "difficulty": "Medium",
+  "problem": "Write a string in a zigzag pattern over numRows rows, then return the string read row by row."
+ },
+ "tree_dfs_pathtotargetnode.png": {
+  "title": "Path to Target Node (Binary Tree)",
+  "lc": "",
+  "difficulty": "",
+  "problem": "Given the root of a binary tree and a target value, return the list of node values on the path from the root to the target node (or empty if absent)."
+ },
+ "tree_lca_lowestcommonancestorofabinarytree.png": {
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "lc": "LC 236",
+  "difficulty": "Medium",
+  "problem": "Given a binary tree and two nodes p and q in it, return their lowest common ancestor."
+ },
+ "twopointers_forwardbackward_minimumwindowsubsequence.png": {
+  "title": "Minimum Window Subsequence",
+  "lc": "LC 727",
+  "difficulty": "Hard",
+  "problem": "Given strings s1 and s2, return the shortest contiguous substring of s1 that contains s2 as a subsequence (leftmost if tied), or \"\". (Card is mislabeled as LC 76.)"
+ },
+ "twopointers_opposite_squaresofasortedarray.png": {
+  "title": "Squares of a Sorted Array",
+  "lc": "LC 977",
+  "difficulty": "Easy",
+  "problem": "Given an integer array sorted in non-decreasing order, return the squares of each number, also sorted, in O(n)."
+ },
+ "twopointers_skipblanks_swapadjacentinlrstring.png": {
+  "title": "Move Pieces to Obtain a String",
+  "lc": "LC 2337",
+  "difficulty": "Medium",
+  "problem": "Given start and target strings of 'L', 'R' and '_', where L can move left and R can move right into blanks, return whether start can be transformed into target."
+ }
+}

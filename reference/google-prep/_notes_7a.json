@@ -1,0 +1,8 @@
+{
+ "greedy_counting_handofstraights.png": "Code bug: 'start ++ 1' is a no-op expression in Python (infinite loop); must be 'start += 1'. Example 1 input shows '3,3' \u2014 should be [1,2,3,6,2,3,4,7,8]. This walk-back version is actually O(n) amortized, not O(n log n).",
+ "dp_knapsack_coinchange_v2.png": "Code is correct; DP trace table has wrong per-coin candidate cells (e.g. a=6 coin 2 should be 3, a=7 coin 2 should be 2, a=8 coin 2 should be 3, a=11 coin 2 should be 4). The dp[a] min column and final answer 3 are right.",
+ "dp_tabulation_decodeways.png": "Space-optimized version initializes prev2, prev1 = 1, 0, so it returns 0 for every input (e.g. '12'). prev1 is dp[n] and must start at 1: use prev2, prev1 = 0, 1. The dict-based DP version is correct.",
+ "dp_tabulation_houserobber1and2.png": "House Robber II helper has typo 'return nams[0]' (NameError) \u2014 should be nums[0]. 'Two cases' panel is wrong: nums[1:]=[2,3,1] max is 3 (2+1 or 3), not 4 'rob 2 and 3' (adjacent). Example 2 explanation should be houses 0 and 2 (1+3=4), not houses 1 and 3. Final answer 4 is right.",
+ "stack_indices_validparenthesisstring.png": "Code is correct but several examples are wrong: Example 2 trace is for '(*))' (input label says '(*)'). Example 3 trace is for '((*))', which is valid (true), not false. 'Invalid case' '(()*' is actually valid (true): after scan left=[0], star=[3], 0<3 matches. 'Valid case' '(*()*' after scan has left=[0], not [0,2] (the ')' at 3 pops 2).",
+ "dp_memo_longestincreasingpathinamatrix_v2.png": "Example 1 explanation and arrows are wrong: 2->6->8->9 is not a path (8 is not adjacent to 6 at (1,0)), and the drawn arrows go 2->1 (decreasing). Correct longest path is 1->2->6->9. Code is correct."
+}

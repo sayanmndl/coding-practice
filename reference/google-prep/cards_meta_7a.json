@@ -1,0 +1,86 @@
+{
+ "dp_knapsack_partitionequalsubsetsum.png": {
+  "title": "Partition Equal Subset Sum",
+  "lc": "LC 416",
+  "difficulty": "Medium",
+  "problem": "Given an integer array nums, decide whether it can be split into two subsets with equal sums. Example: [1,5,11,5] -> true ({1,5,5} and {11}); [1,2,3,5] -> false."
+ },
+ "greedy_counting_handofstraights.png": {
+  "title": "Hand of Straights",
+  "lc": "LC 846",
+  "difficulty": "Medium",
+  "problem": "Given card values hand and groupSize, decide whether the cards can be split into groups of groupSize consecutive numbers. Example: [1,2,3,6,2,3,4,7,8], 3 -> true ([1,2,3],[2,3,4],[6,7,8]); [1,2,3,4,5], 4 -> false."
+ },
+ "dp_knapsack_coinchange_v2.png": {
+  "title": "Coin Change",
+  "lc": "LC 322",
+  "difficulty": "Medium",
+  "problem": "Given coin denominations (unlimited supply) and an amount, return the fewest coins that sum to the amount, or -1 if impossible. Example: coins=[1,2,5], amount=11 -> 3 (5+5+1); coins=[2], amount=3 -> -1."
+ },
+ "bitmanip_shift_reversebits.png": {
+  "title": "Reverse Bits",
+  "lc": "LC 190",
+  "difficulty": "Easy",
+  "problem": "Reverse the bit order of a 32-bit unsigned integer and return the result. Example: n=1 (000...001) -> 2147483648 (100...000)."
+ },
+ "dp_tabulation_decodeways.png": {
+  "title": "Decode Ways",
+  "lc": "LC 91",
+  "difficulty": "Medium",
+  "problem": "A digit string encodes letters with A=1..Z=26; count how many ways it can be decoded. Example: '12' -> 2 ('AB','L'); '226' -> 3; '06' -> 0."
+ },
+ "dp_hashmap_targetsum.png": {
+  "title": "Target Sum",
+  "lc": "LC 494",
+  "difficulty": "Medium",
+  "problem": "Put a + or - sign in front of every number in nums and count how many sign assignments make the total equal target. Example: nums=[1,1,1,1,1], target=3 -> 5."
+ },
+ "graph_dijkstra_swiminrisingwater.png": {
+  "title": "Swim in Rising Water",
+  "lc": "LC 778",
+  "difficulty": "Hard",
+  "problem": "In an n x n grid, cell values are elevations and at time t you can swim through any cell with value <= t; return the minimum t to get from (0,0) to (n-1,n-1). Example: [[0,2],[1,3]] -> 3."
+ },
+ "dp_tabulation_uniquepaths.png": {
+  "title": "Unique Paths",
+  "lc": "LC 62",
+  "difficulty": "Medium",
+  "problem": "Count the paths from the top-left to the bottom-right of an m x n grid when you can only move right or down. Example: m=3, n=7 -> 28; m=3, n=3 -> 6."
+ },
+ "matrix_transpose_rotateimage.png": {
+  "title": "Rotate Image",
+  "lc": "LC 48",
+  "difficulty": "Medium",
+  "problem": "Rotate an n x n matrix 90 degrees clockwise in place. Example: [[1,2,3],[4,5,6],[7,8,9]] -> [[7,4,1],[8,5,2],[9,6,3]]."
+ },
+ "dp_tabulation_houserobber1and2.png": {
+  "title": "House Robber / House Robber II",
+  "lc": "LC 198 / LC 213",
+  "difficulty": "Medium",
+  "problem": "Pick non-adjacent houses from an array of money amounts to maximize the total; in part II the houses form a circle so the first and last are also adjacent. Example: [1,2,3,1] -> 4 (1+3); circular [2,3,2] -> 3."
+ },
+ "dp_tabulation_longestcommonsubsequence.png": {
+  "title": "Longest Common Subsequence",
+  "lc": "LC 1143",
+  "difficulty": "Medium",
+  "problem": "Return the length of the longest subsequence (order kept, characters may be skipped) common to two strings. Example: 'abcde', 'ace' -> 3 ('ace'); 'abc', 'def' -> 0."
+ },
+ "stack_indices_validparenthesisstring.png": {
+  "title": "Valid Parenthesis String",
+  "lc": "LC 678",
+  "difficulty": "Medium",
+  "problem": "A string has '(', ')' and '*', where '*' can be '(', ')' or empty; decide if some choice makes it balanced. Example: '(*)' -> true; '(*))' -> true; ')(' -> false."
+ },
+ "dp_memo_longestincreasingpathinamatrix_v2.png": {
+  "title": "Longest Increasing Path in a Matrix",
+  "lc": "LC 329",
+  "difficulty": "Hard",
+  "problem": "Return the length of the longest strictly increasing path in a grid moving up/down/left/right. Example: [[9,9,4],[6,6,8],[2,1,1]] -> 4 (1->2->6->9)."
+ },
+ "matrix_markers_setmatrixzeroes.png": {
+  "title": "Set Matrix Zeroes",
+  "lc": "LC 73",
+  "difficulty": "Medium",
+  "problem": "If any cell of an m x n matrix is 0, set its whole row and column to 0, in place with O(1) extra space. Example: [[1,1,1],[1,0,1],[1,1,1]] -> [[1,0,1],[0,0,0],[1,0,1]]."
+ }
+}

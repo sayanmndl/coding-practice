@@ -1,0 +1,1182 @@
+{
+"slidingwindow_variable_frequencyofthemostfrequentelement.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"twopointers_opposite_trappingrainwater.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 64)"
+},
+"graph_bfs_routermessagereachability.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_bfs_graphvalidtree.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 22)"
+},
+"unionfind_overview_disjointsetunion.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_tabulation_interleavingstring.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"greedy_lastindex_partitionlabels.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"greedy_counting_handofstraights.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"linkedlist_fastslow_findtheduplicatenumber.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"hashing_remapping_randompickwithblacklist.png": {
+"rating": 4,
+"why": "Google all-time list only (freq 16)"
+},
+"binarysearch_answer_aggressivecows.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_tabulation_minimumtimetofinishtherace.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 32)"
+},
+"intervals_greedy_nonoverlappingintervals.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"prefixsum_hashmap_subarraysumequalsk.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"concurrency_mutex_trafficlightcontrolledintersection.png": {
+"rating": 2,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"design_hashmapdll_lrucache.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"twopointers_opposite_twosum2inputarrayissorted.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"tree_postorder_deletenodesandreturnforest.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"tree_dfs_binarytreerightsideview.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_iterator_rleiterator.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 17)"
+},
+"heap_twoheaps_meetingrooms3.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"graph_topo_aliendictionary.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"dp_interval_longestpalindromicsubstring.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"string_greedy_textjustification.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 25)"
+},
+"graph_dijkstra_findthesafestpathinagrid.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_tabulation_longestcommonsubsequence.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"sorting_mergesort_countofsmallernumbersafterself.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_knapsack_partitionequalsubsetsum.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"intervals_greedy_nonoverlappingintervals_v2.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"backtracking_dfs_wordsearch.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"monostack_contribution_sumofsubarrayminimums.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"string_minimax_guesstheword.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"binarysearch_invariant_truefalsetransition.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"trie_ahocorasick_multipatternstringreplacement_v2.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"intervals_greedy_minimumnumberofarrowstoburstballoons.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_memo_longestincreasingpathinamatrix_v2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"unionfind_cycledetection_redundantconnection.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 31)"
+},
+"graph_prim_mincosttoconnectallpoints.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"graph_dfs_pacificatlanticwaterflow.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_tabulation_distinctsubsequences.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 27)"
+},
+"dp_tabulation_dungeongame.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"graph_topo_coursescheduleii.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_hashmaparray_insertdeletegetrandomo1.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"intervals_minheap_meetingroomsii.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"backtracking_partition_palindromepartitioning.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"graph_bfs_busroutes.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"linkedlist_hashmap_copylistwithrandompointer.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"array_runlength_adjacentincreasingsubarraysdetection2.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 26)"
+},
+"intervals_sweepline_minimumintervaltoincludeeachquery.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"design_trie_designinmemoryfilesystem.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"graph_dfs_countsubislands.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 7)"
+},
+"queue_slidingwindow_movingaveragefromdatastream.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"dp_memo_longestincreasingpathinamatrix.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"dp_tabulation_regularexpressionmatching.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"backtracking_dfs_robotroomcleaner.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 19)"
+},
+"recursion_parsing_parselispexpression.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 7)"
+},
+"tree_dfs_diameterofbinarytree.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"backtracking_dfs_wordsearch_v2.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"dp_memo_lastkeptballblueprobability.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_bellmanford_cheapestflightswithinkstops.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_bucketlist_alloonedatastructure.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 29)"
+},
+"dp_knapsack_01knapsackbinaryprofit.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"bitmanip_fulladder_sumoftwointegers.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"graph_dfs_numberofclosedislands.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"tree_dfs_binarytreevalueislands.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_dfs_evaluatedivision.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 22)"
+},
+"slidingwindow_variable_minimumwindowsubstring.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"intervals_sweepline_mycalendar3.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 5)"
+},
+"prefixsum_xor_countsubarrayswithgivenxork.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_multisourcebfs_wallsandgates.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"design_ordereddict_lfucache.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"binarysearch_flatten_searcha2dmatrix.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"design_bisect_timebasedkeyvaluestore.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"matrix_boundary_spiralmatrixandaddtwonumbers.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 73)"
+},
+"hashing_hashset_longestconsecutivesequence.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 53)"
+},
+"greedy_counting_taskscheduler_v2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"twopointers_hashset_3sum.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 67)"
+},
+"heap_topk_findtop5largestfilesindirectorytree.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_knapsack_coinchange2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"heap_twoheaps_findmedianfromdatastream.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"hashing_counting_findoriginalarrayfromdoubledarray.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 29)"
+},
+"graph_dfs_floodfill.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"slidingwindow_variable_longestrepeatingcharacterreplacement.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"greedy_runningsum_gasstation.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"dp_statemachine_besttimetobuyandsellstockwithcooldown.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"design_hashmap_loggerratelimiter.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"graph_bfs_minimumknightmoves.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 10)"
+},
+"array_boyermoore_majorityelement2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_tabulation_houserobber1and2.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"intervals_segmenttree_rangemodule.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"intervals_overlap_mycalendar2.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 19)"
+},
+"dp_lis_longestincreasingsubsequence_v2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"dp_tabulation_jumpgame2.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"sorting_mergesort_countinversions.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"greedy_differencearray_minimumnumberofincrementsonsubarraystoformatargetarray.png": {
+"rating": 5,
+"why": "Google list, older than 6 months only (freq 58)"
+},
+"greedy_filter_mergetripletstoformtargettriplet.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 5)"
+},
+"trie_prefixtree_implementtrieprefixtree.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"dp_tabulation_jumpgame2_v2.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"string_greedy_licenseplategenerator.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_dfs_redundantconnection.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 31)"
+},
+"tree_xor_findrootofnarytree.png": {
+"rating": 4,
+"why": "Google all-time list only (freq 18)"
+},
+"tree_serialize_serializeanddeserializebinarytree.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"unionfind_nextpointer_rangeassignmentqueries.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"design_bucket_loosemediandatastructure.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"monostack_monotonic_largestrectangleinhistogram.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"unionfind_dsu_countalienpairsfromdifferentplanets.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"twopointers_reverse_nextpermutation.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 36)"
+},
+"intervals_overlap_mycalendar1.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 21)"
+},
+"heap_kway_mergeksortedlists.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"backtracking_includeexclude_subsets.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"intervals_merge_employeefreetime.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"graph_bfs_escapethespreadingfire.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 13)"
+},
+"dp_hashmap_targetsum.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"stack_matching_checkwordvalidaftersubstitutions.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"trie_dfs_designaddandsearchwordsdatastructure_v2.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 26)"
+},
+"array_reverse_rotatearray.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"graph_dfs_surroundedregions.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"twopointers_sortedcount_dicewinprobability.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"unionfind_dsu_earliestacquaintancetime.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"backtracking_sets_nqueens.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"intervals_merge_finduncoveredrangesinarray.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_dijkstra_networkdelaytime.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"greedy_linefill_numberoflinestowritestring.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"stack_callstack_exclusivetimeoffunctions.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"heap_topk_topkfrequentelements.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"intervals_sweepline_separatesquaresii_card1.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 24)"
+},
+"linkedlist_reverse_reversenodesinkgroup.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"string_formatting_formatnumberwithxsignificantdigits.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"binarysearch_answer_splitarraylargestsum.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 53)"
+},
+"backtracking_swap_permutations.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"slidingwindow_fixed_repeateddnasequences.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 24)"
+},
+"twopointers_greedy_swapadjacentinlrstring.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 39)"
+},
+"dp_kadane_maximumproductsubarray.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 41)"
+},
+"dp_tabulation_mincostclimbingstairs.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 31)"
+},
+"monostack_monotonicdeque_slidingwindowmaximum.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"graph_hierholzer_reconstructitinerary.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"dp_tabulation_editdistance.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"graph_multisourcebfs_rottingoranges.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"trie_backtracking_wordsearch2.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"bst_bounds_validatebinarysearchtree.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"intervals_sweepline_separatesquaresii_card2.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 24)"
+},
+"string_runlength_stringcompression.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"graph_topo_buildamatrixwithconditions.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 7)"
+},
+"design_lazypropagation_stackwithincrementoperation.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 35)"
+},
+"graph_dijkstra_swiminrisingwater.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 28)"
+},
+"array_cyclicsort_firstmissingpositive.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"slidingwindow_variable_longestsubstringwithoutrepeatingcharacters.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 64)"
+},
+"dp_lis_longestincreasingsubsequence.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"hashing_hashset_validsudoku.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"tree_bfs_binarytreezigzaglevelordertraversal.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"binarysearch_answer_kokoeatingbananas.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"dp_tabulation_uniquepaths.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"linkedlist_mergesort_sortlist.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"graph_dijkstra_pathwithmaximumminimumvalue.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 28)"
+},
+"hashing_counting_senderwithlargestwordcount.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 21)"
+},
+"dp_segmenttree_longestincreasingsubsequenceii.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"trie_dfs_designaddandsearchwordsdatastructure.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 26)"
+},
+"unionfind_dsu_pathwithmaximumminimumvalue.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 28)"
+},
+"trie_pathtrie_designfilesystem.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 13)"
+},
+"heap_topk_movierecommendationsystem.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"design_lazyheap_stockpricefluctuation.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"dp_kadane_maximumsubarray.png": {
+"rating": 8,
+"why": "Google 3-month list (freq 55)"
+},
+"graph_dfs_countlakesin2dgrid.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"heap_twoheaps_slidingwindowmedian.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 24)"
+},
+"array_boyermoore_majorityelement.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 58)"
+},
+"binarysearch_rotated_searchinrotatedsortedarray.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"graph_dijkstra_themaze2.png": {
+"rating": 4,
+"why": "Google all-time list only (freq 20)"
+},
+"bitmanip_shift_reversebits.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"tree_dfs_subtreeofanothertree.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"design_quickselect_filesystemsizeanalysis.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_interval_burstballoons.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"array_sentinel_missingranges.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 17)"
+},
+"sorting_heapsort_sortanarray.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"stack_matching_validparentheses.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"matrix_simulation_spiralmatrix.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"heap_sweepline_skylineproblem.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 26)"
+},
+"backtracking_counting_generateparentheses.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"intervals_minheap_assigncarstorentalrequests.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"bst_lca_lowestcommonancestorofabinarysearchtree.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 22)"
+},
+"graph_dfs_clonegraph.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"matrix_transpose_rotateimage.png": {
+"rating": 8,
+"why": "Google 3-month list (freq 51)"
+},
+"matrix_slotscan_checkifwordcanbeplacedincrossword.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 17)"
+},
+"graph_topo_courseschedule.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"intervals_merge_insertinterval.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"trie_frequency_designautocompletesystem.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 22)"
+},
+"prefixsum_differencearray_carpooling.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"prefixsum_differencearray_maximumpopulationyear.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 15)"
+},
+"graph_topo_sequencereconstruction.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"design_slidingwindow_designaratelimiter.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_knapsack_coinchange_v2.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"slidingwindow_fixed_permutationinstring.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"math_fastpow_powxn.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"graph_multisourcebfs_wallsandgates_v2.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"prefixsum_prefixsuffix_productofarrayexceptself.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"graph_dfs_numberofprovinces.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"linkedlist_reverse_reverselinkedlist.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"tree_degree_findrootthatmakesgraphbinarytree.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"trie_ahocorasick_multipatternstringreplacement.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"tree_dfs_binarytreemaximumpathsum.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 29)"
+},
+"recursion_recursivedescent_evaluatenestedexpressions.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"graph_dfs_maxareaofisland.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_bisect_snapshotarray.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"recursion_memo_applysubstitutions.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"binarysearch_partition_medianoftwosortedarrays.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 62)"
+},
+"trie_backtracking_wordsearch2_v2.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"linkedlist_fastslow_reorderlist.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"backtracking_dfs_combinationsum.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 41)"
+},
+"trie_pathsegment_httproutematching.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_minimax_stonegame3.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"dp_tabulation_wordbreak.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"graph_dijkstra_minimumsecurityclearance.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"hashing_groupby_friendrecommendations.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"dp_prefixsum_numberofzigzagarrays1.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 36)"
+},
+"stack_indices_longestvalidparentheses.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_twostacks_designatexteditor.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 22)"
+},
+"heap_topk_topkchatcontributors.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"hashing_normalize_groupshiftedstrings.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 35)"
+},
+"unionfind_dsu_accountsmerge.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 25)"
+},
+"greedy_counting_taskscheduler.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"graph_bfs_minimummovestomoveabox.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 13)"
+},
+"string_hamming_wordswithintwoeditsofdictionary.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 17)"
+},
+"heap_greedymatching_processorderspartialfulfillment.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"stack_indices_validparenthesisstring.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"backtracking_dedup_subsets2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"sorting_mergesort_mergesortalgorithm.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"dp_tabulation_decodeways.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"graph_retrogradebfs_catandmouse.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 7)"
+},
+"stack_nested_decodestring.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"matrix_markers_setmatrixzeroes.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"tree_dfs_maximumdepthofbinarytree.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"tree_dfs_binarytreeislands.png": {
+"rating": 6,
+"why": "Custom / Google-style question (not on LeetCode lists); kept on main board"
+},
+"binarysearch_answerspace_maximumvalueatagivenindex.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 13)"
+},
+"string_simulation_zigzagconversion.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"heap_greedy_minimumnumberofrefuelingstops.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"dp_statemachine_minimumoperationstomakecharacterfrequenciesequal.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"tree_dfs_pathtotargetnode.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"design_queuecircular_designhitcounter.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"dp_tabulation_houserobber.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"prefixsum_bisect_randompickwithweight.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 33)"
+},
+"bst_inorderstack_binarysearchtreeiterator.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 21)"
+},
+"binarysearch_bounds_findfirstandlastpositionofelementinsortedarray.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"twopointers_opposite_squaresofasortedarray.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 42)"
+},
+"heap_prefixsuffix_minimumdifferenceinsumsafterremovalofelements.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 10)"
+},
+"twopointers_forwardbackward_minimumwindowsubsequence.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 5)"
+},
+"dp_knapsack_coinchange.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"hashing_signature_groupshiftedstrings.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 35)"
+},
+"monostack_monotonic_numberofvisiblepeopleinaqueue.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"prefixsum_diffarray_zeroarraytransformationi.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 50)"
+},
+"twopointers_skipblanks_swapadjacentinlrstring.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"graph_dfs_numberofislands.png": {
+"rating": 10,
+"why": "Google 30-day list (freq 50)"
+},
+"backtracking_template_backtrackingblueprint.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"tree_lca_lowestcommonancestorofabinarytree.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"dp_tabulation_maximumfarefromautonomouspassengerpickup.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"graph_bfs_shortestpathinbinarymatrix.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"backtracking_combinations_combinationsum.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 41)"
+},
+"binarysearch_bisect_findpeakelement.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"stack_expressioneval_basiccalculator.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"backtracking_constrained_nqueens.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"linkedlist_dummyhead_mergetwosortedlists.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"binarysearch_answerspace_minimumlimitofballsinabag.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"backtracking_constrained_generateparentheses.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"backtracking_subsets_subsetsii.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_ordereddict_lrucache.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"tree_dfs_findleavesofbinarytree.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"queue_bfs_nestedlistweightsum2.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 13)"
+},
+"backtracking_combinations_lettercombinationsofaphonenumber.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 47)"
+},
+"graph_kruskal_connectingcitieswithminimumcost.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"heap_topk_kclosestpointstoorigin.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 30)"
+},
+"backtracking_dfs_findcheeseinmaze.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"graph_bfs_wordladder.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 29)"
+},
+"graph_topo_courseschedule2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 24)"
+},
+"design_dll_allo1datastructure_v2.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"graph_candidateelimination_findthecelebrity.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 7)"
+},
+"dp_lastposition_minimumwindowsubsequence.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 5)"
+},
+"design_dll_allo1datastructure.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"stack_expressioneval_basiccalculator2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 17)"
+},
+"twopointers_palindrome_validpalindrome2.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 36)"
+},
+"tree_lca_lowestcommonancestor.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"hashing_zonemap_maximumnumberoffamiliesinacinema.png": {
+"rating": 3,
+"why": "LeetCode problem not on Google's frequency lists"
+},
+"tree_dfs_sumroottoleafnumbers.png": {
+"rating": 6,
+"why": "Google 6-month list (freq 12)"
+},
+"intervals_interval_mergeintervals.png": {
+"rating": 9,
+"why": "Google 30-day list (freq 37)"
+},
+"recursion_dfs_nestedlistweightsum.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 19)"
+},
+"stack_pathresolve_simulateunixcdcommand.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"tree_bfs_treesideviews.png": {
+"rating": 4,
+"why": "Custom question on an older board (not on LeetCode lists)"
+},
+"stack_twopass_removeinvalidparentheses.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 26)"
+},
+"stack_pathresolve_simplifypath.png": {
+"rating": 7,
+"why": "Google 3-month list (freq 29)"
+},
+"twopointers_parse_validwordabbreviation.png": {
+"rating": 4,
+"why": "Google list, older than 6 months only (freq 19)"
+},
+"coding_linkedin_l1l2knnkmeans.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_linkedin_pytorchtrainingloop.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_linkedin_softmaxnbmlp.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_algorithms_samplingattentionloop.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_linkedin_decodinghmmtfidf.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_linkedin_statspcaoptimizers.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_sampling_randomalgorithms.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+},
+"coding_linkedin_logregdecisiontree.png": {
+"rating": 5,
+"why": "ML-flavoured coding sheet (not on LeetCode lists)"
+}
+}

@@ -1,0 +1,17 @@
+[
+ {
+  "keep": "dp_knapsack_coinchange_v2.png",
+  "alt": "dp_knapsack_coinchange.png",
+  "reason": "Same 1D unbounded-knapsack DP; new card is clearer (examples, trace, memo alt) and the old card's return line is mis-indented"
+ },
+ {
+  "keep": "dp_tabulation_houserobber1and2.png",
+  "alt": "dp_tabulation_houserobber.png",
+  "reason": "Same linear DP; new card adds the O(1) two-variable version (simplest to write) and House Robber II"
+ },
+ {
+  "keep": "dp_memo_longestincreasingpathinamatrix.png",
+  "alt": "dp_memo_longestincreasingpathinamatrix_v2.png",
+  "reason": "Same memoized DFS; existing card is equally short and clean, new card's Example 1 path is wrong"
+ }
+]
